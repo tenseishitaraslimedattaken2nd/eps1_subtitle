@@ -1,0 +1,301 @@
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics_Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Show_Title,Arial,24,&H00CD9612,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,3,4,0,8,0010,0010,0020,1
+Style: Ep_Title,Times New Roman,18,&H00FFFFFF,&H000000FF,&H8C000000,&H8C000000,0,0,0,0,100,100,0,0,1,1,1,3,0010,0040,0050,1
+Style: sign_17935_188_Barren_Lands,Times New Roman,12,&H000C203A,&H000000FF,&H004993AA,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,0010,0010,0171,1
+Style: sign_17319_145_Use_unique_skill,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0179,0179,0150,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.49,0:00:10.15,Main,Hinata,0000,0000,0000,,The world is filled with despair.
+Dialogue: 0,0:00:12.61,0:00:16.82,Flashback,Shizu,0000,0000,0000,,When you lose your way, \NI want you to rely on me.
+Dialogue: 0,0:00:19.68,0:00:21.28,Main,Hinata,0000,0000,0000,,Shizu-sensei...
+Dialogue: 0,0:00:22.28,0:00:27.58,Main,Guy,0000,0000,0000,,Chief Knight of the Imperial Guard, \NHoly Knight Captain Hinata Sakaguchi.
+Dialogue: 0,0:00:28.00,0:00:29.51,Main,Hinata,0000,0000,0000,,What is it?
+Dialogue: 0,0:00:29.51,0:00:32.51,Main,Guy,0000,0000,0000,,The merchant from the east \Nhas brought the new book.
+Dialogue: 0,0:00:32.51,0:00:33.67,Main,Hinata,0000,0000,0000,,Very well.
+Dialogue: 0,0:00:38.19,0:00:40.09,Main,Hinata,0000,0000,0000,,A nation of monsters,
+Dialogue: 0,0:00:40.09,0:00:42.46,Main,Hinata,0000,0000,0000,,the Jura Tempest Federation...
+Dialogue: 0,0:00:43.39,0:00:45.90,sign_17935_188_Barren_Lands,Text,0000,0000,0000,,{\fad(737,1)\fs14\bord3\an5\blur2\t(\fs18)\3c&H74A5BA&\move(320,220,320,227)}Jura Tempest Federation
+Dialogue: 0,0:00:43.76,0:00:46.56,Main,Hinata,0000,0000,0000,,The Great Forest of Jura \Nstretches across the center
+Dialogue: 0,0:00:46.56,0:00:48.22,Main,Hinata,0000,0000,0000,,of the eastern part of the continent.
+Dialogue: 0,0:00:48.93,0:00:53.10,Main,Hinata,0000,0000,0000,,With Goblins, Ogres, \NOrcs, Lizardmen, and more,
+Dialogue: 0,0:00:53.10,0:00:56.50,Main,Hinata,0000,0000,0000,,a wide variety of monster species \Ncalled this forest home
+Dialogue: 0,0:00:56.50,0:00:58.53,Main,Hinata,0000,0000,0000,,when the new nation \Nwas suddenly built in it.
+Dialogue: 0,0:00:59.74,0:01:02.91,Main,Hinata,0000,0000,0000,,A nation of monsters: Tempest.
+Dialogue: 0,0:01:03.91,0:01:06.96,Main,Hinata,0000,0000,0000,,The city is clean and well-maintained \Nfor comfortable living.
+Dialogue: 0,0:01:09.23,0:01:13.30,Main,Hinata,0000,0000,0000,,Its residents are educated in reading, \Nwriting, arithmetic, and other subjects,
+Dialogue: 0,0:01:13.30,0:01:19.26,Main,Hinata,0000,0000,0000,,and they produce weapons, armor, silk, \Nand other products with well-trained skills.
+Dialogue: 0,0:01:19.39,0:01:21.26,sign_17935_188_Barren_Lands,Text,0000,0000,0000,,{\fad(731,1)\b1\bord3\blur2\an5\3c&H678FB3&\t(\fs14)}Armed Nation of\NDwargon
+Dialogue: 0,0:01:21.26,0:01:24.48,Main,Hinata,0000,0000,0000,,The Armed Nation of Dwargon, \Na nation of Dwarves
+Dialogue: 0,0:01:24.48,0:01:26.60,Main,Hinata,0000,0000,0000,,ruled by Gazel Dwargo,
+Dialogue: 0,0:01:28.19,0:01:29.98,sign_17935_188_Barren_Lands,Text,0000,0000,0000,,{\fad(690,1)\b1\bord2\an5\3c&H74B3C3&\t( \fs15)\move(320,230,320,227)}Kingdom of\NBlumund
+Dialogue: 0,0:01:28.71,0:01:30.98,Main,Hinata,0000,0000,0000,,and the Kingdom of Blumund, \Na nation of humans,
+Dialogue: 0,0:01:30.98,0:01:33.15,Main,Hinata,0000,0000,0000,,have established friendships with it.
+Dialogue: 0,0:01:34.51,0:01:38.73,Main,Hinata,0000,0000,0000,,It also participates in trading \Nand enjoys a stable economy.
+Dialogue: 0,0:01:39.30,0:01:41.80,Main,Hinata,0000,0000,0000,,Its influence grows by the day.
+Dialogue: 0,0:01:43.16,0:01:48.14,Main,Hinata,0000,0000,0000,,The leader of this nation of monsters, \Nthe Jura Tempest Federation...
+Dialogue: 0,0:01:50.47,0:01:54.91,Main,Hinata,0000,0000,0000,,is named Rimuru Tempest.
+Dialogue: 0,0:01:57.79,0:01:58.99,Main,Hinata,0000,0000,0000,,Rimuru...
+Dialogue: 0,0:03:28.31,0:03:30.98,Show_Title,Title,0000,0000,0000,,That {\c&H471e13&}Time {\c&Hcd9612&}I Got {\c&H471e13&}Reincarnated {\c&Hcd9612&}as a {\c&H7e4f0a&}Slime
+Dialogue: 0,0:03:31.38,0:03:33.52,Italics,Rimuru,0000,0000,0000,,{\an8}I'm Rimuru Tempest.
+Dialogue: 0,0:03:31.48,0:03:35.23,Ep_Title,Title,0000,0000,0000,,{\fad(1441,1)}Digression: Hinata Sakaguchi
+Dialogue: 0,0:03:33.52,0:03:36.15,Italics,Rimuru,0000,0000,0000,,{\an8}As you can see, I'm a slime.
+Dialogue: 0,0:03:36.67,0:03:39.83,Italics,Rimuru,0000,0000,0000,,But I used to be a human.
+Dialogue: 0,0:03:44.70,0:03:46.37,Main,Mikami,0000,0000,0000,,Sure is peaceful...
+Dialogue: 0,0:03:47.03,0:03:49.08,Italics,Rimuru,0000,0000,0000,,This is the former me.
+Dialogue: 0,0:03:49.08,0:03:52.06,Italics,Rimuru,0000,0000,0000,,Mikami Satoru, age 37,
+Dialogue: 0,0:03:52.06,0:03:53.02,Italics,Rimuru,0000,0000,0000,,and a virg—
+Dialogue: 0,0:03:55.07,0:03:58.84,Italics,Rimuru,0000,0000,0000,,I was a pretty good-looking guy, \Nif I do say so myself.
+Dialogue: 0,0:03:58.84,0:04:01.92,Italics,Rimuru,0000,0000,0000,,Yeah, I think I was. Don't you?
+Dialogue: 0,0:04:01.92,0:04:03.34,Italics,Rimuru,0000,0000,0000,,You do, right?
+Dialogue: 0,0:04:04.59,0:04:09.99,Italics,Rimuru,0000,0000,0000,,I was a fairly capable employee \Nat a major general contracting firm.
+Dialogue: 0,0:04:10.33,0:04:11.50,Italics,Rimuru,0000,0000,0000,,But...
+Dialogue: 0,0:04:18.90,0:04:19.82,Main,Mikami,0000,0000,0000,,Tamura!
+Dialogue: 0,0:04:38.38,0:04:40.06,Main,Tamura,0000,0000,0000,,S-Senpai!
+Dialogue: 0,0:04:42.60,0:04:44.72,Italics,Rimuru,0000,0000,0000,,I was stabbed in a random attack...
+Dialogue: 0,0:04:46.27,0:04:47.60,Italics,Rimuru,0000,0000,0000,,and died.
+Dialogue: 0,0:04:51.39,0:04:52.97,Italics,Rimuru,0000,0000,0000,,And then...
+Dialogue: 0,0:04:53.39,0:04:57.74,Italics,Rimuru,0000,0000,0000,,for some reason, I was reincarnated \Nin another world as a slime.
+Dialogue: 0,0:04:57.74,0:04:59.36,Italics,Rimuru,0000,0000,0000,,And that's what happened.
+Dialogue: 0,0:05:06.49,0:05:09.07,Main,Veldora,0000,0000,0000,,I am the Storm Dragon, Veldora.
+Dialogue: 0,0:05:09.07,0:05:10.66,Main,Rimuru,0000,0000,0000,,Storm Dragon?
+Dialogue: 0,0:05:10.66,0:05:15.02,Main,Veldora,0000,0000,0000,,I am one of only four True Dragons \Nthat exist in this world.
+Dialogue: 0,0:05:22.62,0:05:25.93,Italics,Rimuru,0000,0000,0000,,Veldora was the first friend \NI made in this world.
+Dialogue: 0,0:05:28.76,0:05:31.21,Main,Head,0000,0000,0000,,Please grant us your protection!
+Dialogue: 0,0:05:31.21,0:05:35.26,Main,Head,0000,0000,0000,,If you do, we will swear our loyalty to you!
+Dialogue: 0,0:05:35.26,0:05:36.44,Main,Leader,0000,0000,0000,,We will swear!
+Dialogue: 0,0:05:36.44,0:05:41.13,Main,Rimuru,0000,0000,0000,,In lieu of the Storm Dragon Veldora,
+Dialogue: 0,0:05:41.13,0:05:43.94,Main,Rimuru,0000,0000,0000,,I, Rimuru Tempest, will grant your wish!
+Dialogue: 0,0:05:44.26,0:05:48.36,Italics,Rimuru,0000,0000,0000,,In some bizarre twist, \NI became the protector of the Goblins...
+Dialogue: 0,0:05:48.36,0:05:51.37,Main,Wolves,0000,0000,0000,,Our pack yields to you.
+Dialogue: 0,0:05:51.71,0:05:55.82,Italics,Rimuru,0000,0000,0000,,And then I became \Nthe head of a Direwolf pack.
+Dialogue: 0,0:05:56.28,0:05:59.30,Main,Benimaru,0000,0000,0000,,Please accept our allegiance.
+Dialogue: 0,0:05:59.30,0:06:02.71,Main,Benimaru,0000,0000,0000,,We will continue to serve you.
+Dialogue: 0,0:06:03.89,0:06:05.26,Main,Rimuru,0000,0000,0000,,You're sure?
+Dialogue: 0,0:06:05.73,0:06:07.72,Main,Hakurou,0000,0000,0000,,I have no objections.
+Dialogue: 0,0:06:08.25,0:06:11.55,Main,Souei,0000,0000,0000,,We are truly fortunate to have met you.
+Dialogue: 0,0:06:13.96,0:06:17.07,Main,Shion,0000,0000,0000,,I'm your secretary and \Nbodyguard, Great Rimuru!
+Dialogue: 0,0:06:17.07,0:06:19.19,Main,Shion,0000,0000,0000,,I'll never leave your side!
+Dialogue: 0,0:06:19.19,0:06:22.04,Main,Benimaru,0000,0000,0000,,Not until the ends of our lives.
+Dialogue: 0,0:06:22.04,0:06:24.44,Main,Rimuru,0000,0000,0000,,O-Okay...
+Dialogue: 0,0:06:24.94,0:06:27.08,Italics,Rimuru,0000,0000,0000,,And before I knew what was happening,
+Dialogue: 0,0:06:27.08,0:06:32.83,Italics,Rimuru,0000,0000,0000,,I was revered as the head of the Ogres, \NOrcs, and all kinds of other races.
+Dialogue: 0,0:06:33.74,0:06:37.43,Main,Rigurd,0000,0000,0000,,Then our nation shall be called \Nthe Jura Tempest Federation,
+Dialogue: 0,0:06:37.43,0:06:40.25,Main,Rigurd,0000,0000,0000,,and this town shall be called Rimuru!
+Dialogue: 0,0:06:40.25,0:06:41.50,Main,Rimuru,0000,0000,0000,,Huh?!
+Dialogue: 0,0:06:41.50,0:06:43.62,Main,Rigurd,0000,0000,0000,,Capital City Rimuru!
+Dialogue: 0,0:06:43.62,0:06:45.56,Main,Rimuru,0000,0000,0000,,Hang on, that's kinda embarrassi—
+Dialogue: 0,0:06:45.56,0:06:47.08,Main,Shion,0000,0000,0000,,Capital City Rimuru!
+Dialogue: 0,0:06:47.08,0:06:48.73,Main,Shion,0000,0000,0000,,No other name would do!
+Dialogue: 0,0:06:48.73,0:06:52.05,Main,Benimaru,0000,0000,0000,,I agree. It's a perfect name for our town.
+Dialogue: 0,0:06:52.79,0:06:55.20,Italics,Rimuru,0000,0000,0000,,Since I had become this nation's leader,
+Dialogue: 0,0:06:55.20,0:06:57.11,Italics,Rimuru,0000,0000,0000,,I made up my mind to protect all my allies
+Dialogue: 0,0:06:57.11,0:07:03.15,Italics,Rimuru,0000,0000,0000,,and make Tempest a safe, prosperous, \Ncomfortable city to live in.
+Dialogue: 0,0:07:03.51,0:07:05.51,Italics,Rimuru,0000,0000,0000,,And then, somehow...
+Dialogue: 0,0:07:06.94,0:07:10.41,Italics,Rimuru,0000,0000,0000,,I ended up becoming a school teacher.
+Dialogue: 0,0:07:11.27,0:07:14.28,Italics,Rimuru,0000,0000,0000,,This is the Kingdom of Ingrassia.
+Dialogue: 0,0:07:11.41,0:07:14.28,sign_17935_188_Barren_Lands,Text,0000,0000,0000,,{\fad(690,1)\b1\bord2\an5\blur1\3c&H74B3C3&\t( \fs15)\move(320,190,320,200)}Kingdom of Ingrassia
+Dialogue: 0,0:07:14.66,0:07:18.20,Italics,Rimuru,0000,0000,0000,,It's the leading cultural center \Nof the western part of the continent,
+Dialogue: 0,0:07:18.20,0:07:20.92,Italics,Rimuru,0000,0000,0000,,as well as a large, vibrant nation.
+Dialogue: 0,0:07:23.80,0:07:27.99,Italics,Rimuru,0000,0000,0000,,There, a mutual aid organization \Nfor adventurers, the Free Union,
+Dialogue: 0,0:07:27.99,0:07:32.87,Italics,Rimuru,0000,0000,0000,,established Freedom Academy to \Nnurture and teach its members.
+Dialogue: 0,0:07:32.87,0:07:34.66,Italics,Rimuru,0000,0000,0000,,And that's where...
+Dialogue: 0,0:07:34.98,0:07:38.47,Italics,Rimuru,0000,0000,0000,,I was appointed to teach \Na class of problematic kids.
+Dialogue: 0,0:07:38.97,0:07:43.81,Italics,Rimuru,0000,0000,0000,,The five of them were the regret \Nthat Shizu-san had left behind.
+Dialogue: 0,0:07:44.99,0:07:50.15,Italics,Rimuru,0000,0000,0000,,Shizu-san had come to this world \Nfrom Japan, just like me.
+Dialogue: 0,0:07:58.98,0:08:01.71,Italics,Rimuru,0000,0000,0000,,I reincarnated here after dying in Japan,
+Dialogue: 0,0:08:01.71,0:08:05.46,Italics,Rimuru,0000,0000,0000,,but Shizu-san was a Summon, \Nmeaning she had been summoned here...
+Dialogue: 0,0:08:17.37,0:08:20.46,Italics,Rimuru,0000,0000,0000,,by the Demon Lord Leon Cromwell.
+Dialogue: 0,0:08:21.12,0:08:25.84,Main,Leon,0000,0000,0000,,I thought she was useless, but she \Nmay have an affinity for fire.
+Dialogue: 0,0:08:31.22,0:08:34.94,Main,Leon,0000,0000,0000,,Ifrit, I offer her body to you.
+Dialogue: 0,0:08:36.08,0:08:37.50,Main,Leon,0000,0000,0000,,Use it well.
+Dialogue: 0,0:08:51.38,0:08:53.78,Italics,Rimuru,0000,0000,0000,,A Summon, as the name suggests,
+Dialogue: 0,0:08:53.78,0:08:56.72,Italics,Rimuru,0000,0000,0000,,is someone who was summoned into this world.
+Dialogue: 0,0:08:56.72,0:08:58.35,Main,Rimuru,0000,0000,0000,,A Summon?
+Dialogue: 0,0:08:58.35,0:09:00.72,Main,Rimuru,0000,0000,0000,,Is that different from Otherworlders?
+Dialogue: 0,0:09:00.72,0:09:05.19,Main,Veldora,0000,0000,0000,,It takes more than 30 mages to perform \Na ritual that lasts several days
+Dialogue: 0,0:09:05.19,0:09:06.98,Main,Veldora,0000,0000,0000,,to bring one here from another world.
+Dialogue: 0,0:09:06.98,0:09:10.64,Main,Veldora,0000,0000,0000,,They're also expected to serve \Nas powerful weapons.
+Dialogue: 0,0:09:10.64,0:09:11.75,Main,Rimuru,0000,0000,0000,,Weapons?
+Dialogue: 0,0:09:11.75,0:09:13.69,Main,Veldora,0000,0000,0000,,Yes, for the Summoner.
+Dialogue: 0,0:09:13.69,0:09:16.55,Main,Veldora,0000,0000,0000,,Magic is used to carve a curse \Ninto the Summon's soul
+Dialogue: 0,0:09:16.55,0:09:19.24,Main,Veldora,0000,0000,0000,,to ensure that the Summon \Ncan't defy the Summoner.
+Dialogue: 0,0:09:19.24,0:09:22.24,Main,Rimuru,0000,0000,0000,,What the heck?! That's just cruel!
+Dialogue: 0,0:09:22.24,0:09:24.05,Main,Veldora,0000,0000,0000,,Cruel, eh?
+Dialogue: 0,0:09:24.05,0:09:26.82,Main,Veldora,0000,0000,0000,,I don't know what your world was like,
+Dialogue: 0,0:09:26.82,0:09:31.25,Main,Veldora,0000,0000,0000,,but survival of the fittest is the \Nprevailing truth in this world.
+Dialogue: 0,0:09:31.25,0:09:32.70,Main,Rimuru,0000,0000,0000,,I see...
+Dialogue: 0,0:09:34.59,0:09:38.36,Italics,Rimuru,0000,0000,0000,,Shizu-san remained in service \Nto the Demon Lord Leon.
+Dialogue: 0,0:09:38.97,0:09:44.43,Italics,Rimuru,0000,0000,0000,,Whether that's because of a curse \Nor because of the fire spirit Ifrit
+Dialogue: 0,0:09:44.43,0:09:47.24,Italics,Rimuru,0000,0000,0000,,was unclear, even to Shizu-san herself.
+Dialogue: 0,0:09:49.56,0:09:51.72,Italics,Rimuru,0000,0000,0000,,Several years passed.
+Dialogue: 0,0:09:51.72,0:09:53.94,Italics,Rimuru,0000,0000,0000,,After an intense battle,
+Dialogue: 0,0:09:54.54,0:09:57.82,Italics,Rimuru,0000,0000,0000,,the Demon Lord abandoned his castle \Nand vanished somewhere,
+Dialogue: 0,0:09:58.62,0:10:00.82,Italics,Rimuru,0000,0000,0000,,leaving Shizu-san behind.
+Dialogue: 0,0:10:06.36,0:10:07.71,Main,Shizu,0000,0000,0000,,I can't beat her...
+Dialogue: 0,0:10:11.52,0:10:14.98,Italics,Rimuru,0000,0000,0000,,Shizu-san was then taken in by the Hero.
+Dialogue: 0,0:10:15.44,0:10:18.47,Italics,Rimuru,0000,0000,0000,,She traveled with the Hero for years...
+Dialogue: 0,0:10:18.47,0:10:20.60,Italics,Rimuru,0000,0000,0000,,and even after they parted ways,
+Dialogue: 0,0:10:21.19,0:10:25.93,Italics,Rimuru,0000,0000,0000,,she traveled the world as an adventurer \Nto save people who were suffering.
+Dialogue: 0,0:10:26.55,0:10:30.10,Italics,Rimuru,0000,0000,0000,,Eventually, she became known as a Champion.
+Dialogue: 0,0:10:30.79,0:10:34.98,Italics,Rimuru,0000,0000,0000,,But as she grew older, her magic weakened,
+Dialogue: 0,0:10:34.98,0:10:38.16,Italics,Rimuru,0000,0000,0000,,and she began to lose control over Ifrit.
+Dialogue: 0,0:10:38.66,0:10:42.63,Italics,Rimuru,0000,0000,0000,,She didn't want to risk \Nhurting anyone she cared about,
+Dialogue: 0,0:10:42.63,0:10:46.92,Italics,Rimuru,0000,0000,0000,,so she retired from adventuring \Nand became a teacher at Freedom Academy.
+Dialogue: 0,0:10:47.93,0:10:49.50,Italics,Rimuru,0000,0000,0000,,Among her students was Yuuki Kagurazaka,
+Dialogue: 0,0:10:49.50,0:10:54.42,Italics,Rimuru,0000,0000,0000,,who became the Grandmaster \Nof the adventurers' guild.
+Dialogue: 0,0:10:54.85,0:10:58.42,Italics,Rimuru,0000,0000,0000,,I heard that there was another \Nwho left Shizu-san's side,
+Dialogue: 0,0:10:58.95,0:11:01.58,Italics,Rimuru,0000,0000,0000,,but her last batch of students...
+Dialogue: 0,0:11:01.58,0:11:04.30,Italics,Rimuru,0000,0000,0000,,Yes, Kenya Misaki,
+Dialogue: 0,0:11:04.30,0:11:06.36,Italics,Rimuru,0000,0000,0000,,Ryota Sekiguchi,
+Dialogue: 0,0:11:06.36,0:11:07.97,Italics,Rimuru,0000,0000,0000,,Gale Gibson,
+Dialogue: 0,0:11:07.97,0:11:09.59,Italics,Rimuru,0000,0000,0000,,Alice Rondo,
+Dialogue: 0,0:11:09.59,0:11:11.98,Italics,Rimuru,0000,0000,0000,,and Chloe Aubert...
+Dialogue: 0,0:11:13.13,0:11:17.02,Italics,Rimuru,0000,0000,0000,,were all Summons from \Nthe world I had come from.
+Dialogue: 0,0:11:17.82,0:11:20.24,Flashback,Kenya,0000,0000,0000,,What're we gonna do today, Sensei?
+Dialogue: 0,0:11:20.24,0:11:23.87,Flashback,Shizu,0000,0000,0000,,That's a good question. \NWhat should we do today?
+Dialogue: 0,0:11:24.62,0:11:25.75,Italics,Rimuru,0000,0000,0000,,But then,
+Dialogue: 0,0:11:26.32,0:11:30.96,Italics,Rimuru,0000,0000,0000,,Shizu-san sensed that she \Ndidn't have long left to live...
+Dialogue: 0,0:11:32.46,0:11:34.38,Italics,Rimuru,0000,0000,0000,,and she set out on her final journey.
+Dialogue: 0,0:11:35.62,0:11:38.88,Main,Rimuru,0000,0000,0000,,So, do you like our town?
+Dialogue: 0,0:11:41.88,0:11:44.39,Main,Shizu,0000,0000,0000,,Yes, very much.
+Dialogue: 0,0:11:45.37,0:11:49.27,Main,Rimuru,0000,0000,0000,,You're welcome to stay\Nas long as you'd like, Shizu-san.
+Dialogue: 0,0:11:49.27,0:11:53.15,Main,Shizu,0000,0000,0000,,Thank you... but I have to go.
+Dialogue: 0,0:11:53.15,0:11:54.42,Main,Rimuru,0000,0000,0000,,You do?
+Dialogue: 0,0:11:55.07,0:11:58.53,Main,Shizu,0000,0000,0000,,If I stay here, I might \Nbring trouble for you.
+Dialogue: 0,0:12:02.03,0:12:04.57,Main,Shizu,0000,0000,0000,,The goal of my journey is...
+Dialogue: 0,0:12:04.57,0:12:06.06,Main,Rimuru,0000,0000,0000,,Goal?
+Dialogue: 0,0:12:07.36,0:12:10.56,Main,Shizu,0000,0000,0000,,...to find the man who summoned me.
+Dialogue: 0,0:12:12.05,0:12:14.04,Main,Rimuru,0000,0000,0000,,What will you do when you find him?
+Dialogue: 0,0:12:16.64,0:12:20.94,Italics,Rimuru,0000,0000,0000,,She wanted to see the Demon \NLord Leon Cromwell again.
+Dialogue: 0,0:12:21.71,0:12:25.10,Italics,Rimuru,0000,0000,0000,,But she couldn't fulfill that goal.
+Dialogue: 0,0:12:30.39,0:12:32.90,Main,Rimuru,0000,0000,0000,,Take this! Icicle Shotgun!
+Dialogue: 0,0:12:36.73,0:12:39.42,Italics,Rimuru,0000,0000,0000,,She could no longer restrain Ifrit,
+Dialogue: 0,0:12:39.42,0:12:40.77,Italics,Rimuru,0000,0000,0000,,and then...
+Dialogue: 0,0:12:51.40,0:12:55.84,Main,Shizu,0000,0000,0000,,Hey, Slime-san, what's your name?
+Dialogue: 0,0:12:55.84,0:12:58.43,Main,Rimuru,0000,0000,0000,,Huh? I told you, I'm Rimuru.
+Dialogue: 0,0:12:59.05,0:13:01.59,Main,Shizu,0000,0000,0000,,No, I mean your real name.
+Dialogue: 0,0:13:01.90,0:13:02.91,Main,Rimuru,0000,0000,0000,,Oh...
+Dialogue: 0,0:13:03.70,0:13:07.09,Main,Rimuru,0000,0000,0000,,It's Satoru. Mikami Satoru.
+Dialogue: 0,0:13:07.81,0:13:12.05,Main,Shizu,0000,0000,0000,,I'm Shizue. Izawa Shizue.
+Dialogue: 0,0:13:16.23,0:13:19.45,Main,Rimuru,0000,0000,0000,,Shizue-san, you should sleep now.
+Dialogue: 0,0:13:20.11,0:13:24.39,Main,Shizu,0000,0000,0000,,Satoru-san, I'd like to ask a favor.
+Dialogue: 0,0:13:24.39,0:13:25.74,Main,Shizu,0000,0000,0000,,May I?
+Dialogue: 0,0:13:26.24,0:13:28.75,Main,Rimuru,0000,0000,0000,,Of course. Ask me anything.
+Dialogue: 0,0:13:32.18,0:13:33.53,Main,Shizu,0000,0000,0000,,Please...
+Dialogue: 0,0:13:34.95,0:13:35.83,Main,Shizu,0000,0000,0000,,eat me.
+Dialogue: 0,0:13:38.52,0:13:44.91,Main,Shizu,0000,0000,0000,,Just like you ate the curse \Nthat had been cast on me.
+Dialogue: 0,0:13:46.49,0:13:47.96,Main,Shizu,0000,0000,0000,,That made me so happy.
+Dialogue: 0,0:13:51.44,0:13:54.86,Main,Shizu,0000,0000,0000,,I dislike this world...
+Dialogue: 0,0:13:56.19,0:13:58.77,Main,Shizu,0000,0000,0000,,Still, I can't abhor it.
+Dialogue: 0,0:14:00.14,0:14:02.85,Main,Shizu,0000,0000,0000,,Just like that man...
+Dialogue: 0,0:14:03.59,0:14:06.10,Main,Shizu,0000,0000,0000,,So... That's why...
+Dialogue: 0,0:14:07.62,0:14:10.89,Main,Shizu,0000,0000,0000,,I don't want to be absorbed by this world.
+Dialogue: 0,0:14:12.78,0:14:15.37,Main,Shizu,0000,0000,0000,,This is... my last request.
+Dialogue: 0,0:14:18.52,0:14:24.40,Main,Shizu,0000,0000,0000,,Would you... let me rest inside you?
+Dialogue: 0,0:14:31.15,0:14:32.14,Main,Rimuru,0000,0000,0000,,Okay.
+Dialogue: 0,0:14:37.68,0:14:43.20,Main,Rimuru,0000,0000,0000,,I swear to you on the name of \NMikami Satoru... no, Rimuru Tempest,
+Dialogue: 0,0:14:43.20,0:14:47.32,Main,Rimuru,0000,0000,0000,,that I will make certain the Demon Lord \NLeon Cromwell hears your wishes!
+Dialogue: 0,0:14:48.04,0:14:49.71,Main,Shizu,0000,0000,0000,,Thank... you...
+Dialogue: 0,0:15:00.46,0:15:04.54,Main,Rimuru,0000,0000,0000,,Shizu-san, my destined one...
+Dialogue: 0,0:15:04.54,0:15:08.09,Main,Rimuru,0000,0000,0000,,Rest in peace within me.
+Dialogue: 0,0:15:08.09,0:15:11.34,Italics_Top,Great Sage,0000,0000,0000,,Use unique skill "Predator"?
+Dialogue: 0,0:15:08.09,0:15:12.30,sign_17319_145_Use_unique_skill,Text,0000,0000,0000,,{\fad(1319,1)}Use unique skill "Predator"?
+Dialogue: 0,0:15:12.83,0:15:13.94,Main,Rimuru,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:14.91,0:15:19.60,Main,Rimuru,0000,0000,0000,,So that she can dream happy dreams forever \Nand never have to wake from them.
+Dialogue: 0,0:15:30.97,0:15:35.11,Main,Clayman,0000,0000,0000,,You intend to interfere with my plans,
+Dialogue: 0,0:15:35.11,0:15:39.83,Main,Clayman,0000,0000,0000,,leader of the Great Forest \Nof Jura, Rimuru Tempest?
+Dialogue: 0,0:15:44.46,0:15:46.19,Main,Clayman,0000,0000,0000,,Orcs.
+Dialogue: 0,0:15:46.63,0:15:52.43,Main,Clayman,0000,0000,0000,,I had the idea to use those starved pigs \Nto strengthen my forces, but...
+Dialogue: 0,0:16:13.56,0:16:16.13,Main,Rimuru,0000,0000,0000,,I've acknowledged you as an enemy.
+Dialogue: 0,0:16:16.61,0:16:19.37,Main,Rimuru,0000,0000,0000,,Now I'll take you on for real.
+Dialogue: 0,0:16:20.69,0:16:22.08,Main,Geld,0000,0000,0000,,Laughable!
+Dialogue: 0,0:16:22.08,0:16:25.20,Main,Geld,0000,0000,0000,,Does that mean you weren't \Nserious before now?
+Dialogue: 0,0:16:25.20,0:16:28.13,Main,Geld,0000,0000,0000,,There is nothing more you can do!
+Dialogue: 0,0:16:29.61,0:16:32.63,Main,Geld,0000,0000,0000,,Just accept that I'm going to eat you!
+Dialogue: 0,0:16:33.19,0:16:37.33,Main,Rimuru,0000,0000,0000,,Before you can eat me, I'm going to eat you.
+Dialogue: 0,0:16:38.83,0:16:41.42,Main,Rimuru,0000,0000,0000,,I'm a slime.
+Dialogue: 0,0:16:42.39,0:16:43.41,Main,Geld,0000,0000,0000,,Wha—
+Dialogue: 0,0:16:46.11,0:16:47.65,Main,Geld,0000,0000,0000,,Wh-Why, you...
+Dialogue: 0,0:16:48.10,0:16:51.58,Main,Rimuru,0000,0000,0000,,You're not the only one who can eat things!
+Dialogue: 0,0:16:53.24,0:16:55.66,Main,Rimuru,0000,0000,0000,,Will you eat me first...
+Dialogue: 0,0:16:59.31,0:17:01.88,Main,Rimuru,0000,0000,0000,,or will I eat you first?
+Dialogue: 0,0:17:01.88,0:17:04.42,Main,Rimuru,0000,0000,0000,,The one who completely \Nconsumes the other wins!
+Dialogue: 0,0:17:24.06,0:17:29.50,Main,Clayman,0000,0000,0000,,I never even imagined \Nthat you would interfere.
+Dialogue: 0,0:17:34.34,0:17:39.60,Main,Clayman,0000,0000,0000,,Even though I sent out \Nthe resurrected Charybdis after that,
+Dialogue: 0,0:17:40.49,0:17:44.34,Main,Clayman,0000,0000,0000,,the Demon Lord Milim joined their side...
+Dialogue: 0,0:17:48.63,0:17:51.22,Main,Milim,0000,0000,0000,,I've already seen that trick.
+Dialogue: 0,0:17:51.22,0:17:53.92,Main,Milim,0000,0000,0000,,Now, I'll show you one of mine.
+Dialogue: 0,0:17:59.05,0:18:01.11,Main,Milim,0000,0000,0000,,This is...
+Dialogue: 0,0:18:01.11,0:18:04.43,Main,Milim,0000,0000,0000,,what you call "restraint"!
+Dialogue: 0,0:18:05.68,0:18:09.06,Main,Milim,0000,0000,0000,,Drago Buster!
+Dialogue: 0,0:18:19.11,0:18:21.16,Main,Clayman,0000,0000,0000,,Well, no matter.
+Dialogue: 0,0:18:21.55,0:18:25.54,Main,Clayman,0000,0000,0000,,I will make use of Milim soon enough.
+Dialogue: 0,0:18:26.38,0:18:30.14,Main,Clayman,0000,0000,0000,,As for that slime... Rimuru, \Nas I believe he is called...
+Dialogue: 0,0:18:30.14,0:18:32.47,Main,Clayman,0000,0000,0000,,I will see that he disappears
+Dialogue: 0,0:18:32.47,0:18:36.30,Main,Clayman,0000,0000,0000,,along with his beloved nation of Tempest \Nand everyone dear to him.
+Dialogue: 0,0:18:37.51,0:18:41.56,Main,Clayman,0000,0000,0000,,He has truly started \Nto become a nuisance of late.
+Dialogue: 0,0:18:42.90,0:18:47.89,Main,Clayman,0000,0000,0000,,Since he chose to interfere \Nwith the Demon Lord Clayman,
+Dialogue: 0,0:18:47.89,0:18:50.96,Main,Clayman,0000,0000,0000,,I must assume he is prepared \Nfor the consequences.
+Dialogue: 0,0:18:57.78,0:18:59.86,Italics,Rimuru,0000,0000,0000,,Shizu-san's lingering regret
+Dialogue: 0,0:18:59.86,0:19:04.29,Italics,Rimuru,0000,0000,0000,,was the five kids who \Nwere summoned into this world.
+Dialogue: 0,0:19:04.99,0:19:09.31,Main,Yuuki,0000,0000,0000,,When a summoning is performed, \Nthere are times when a child is summoned.
+Dialogue: 0,0:19:09.95,0:19:12.48,Main,Yuuki,0000,0000,0000,,And when an amount of energy too vast
+Dialogue: 0,0:19:12.48,0:19:15.79,Main,Yuuki,0000,0000,0000,,for that child's growing body is taken in...
+Dialogue: 0,0:19:16.52,0:19:21.95,Main,Yuuki,0000,0000,0000,,Eventually, that body will be incinerated \Nby all that energy with nowhere to go.
+Dialogue: 0,0:19:22.46,0:19:25.17,Main,Yuuki,0000,0000,0000,,No one has found a way to \Nprevent their destruction.
+Dialogue: 0,0:19:26.10,0:19:29.69,Main,Yuuki,0000,0000,0000,,Nearly all children under the age \Nof ten who have been summoned
+Dialogue: 0,0:19:29.69,0:19:31.98,Main,Yuuki,0000,0000,0000,,have died within five years.
+Dialogue: 0,0:19:32.90,0:19:34.58,Main,Yuuki,0000,0000,0000,,Please!
+Dialogue: 0,0:19:34.58,0:19:38.11,Main,Yuuki,0000,0000,0000,,If it's at all possible, \Nplease save those children!
+Dialogue: 0,0:19:39.67,0:19:41.98,Main,Rimuru,0000,0000,0000,,I'll just do whatever I can.
+Dialogue: 0,0:19:42.61,0:19:45.74,Main,Rimuru,0000,0000,0000,,It's what I've always done, \Nand what I'll continue to do.
+Dialogue: 0,0:19:47.00,0:19:48.77,Italics,Rimuru,0000,0000,0000,,That was when I thought...
+Dialogue: 0,0:19:49.15,0:19:53.03,Italics,Rimuru,0000,0000,0000,,Shizu-san was also summoned as a child,
+Dialogue: 0,0:19:53.03,0:19:54.48,Italics,Rimuru,0000,0000,0000,,but she lived.
+Dialogue: 0,0:19:54.48,0:19:57.48,Italics,Rimuru,0000,0000,0000,,Was it because housing Ifrit within her body
+Dialogue: 0,0:19:57.48,0:20:00.80,Italics,Rimuru,0000,0000,0000,,enabled her to control \Nthe energy she had inside her?
+Dialogue: 0,0:20:01.99,0:20:05.68,Italics,Rimuru,0000,0000,0000,,So I decided to get spirits \Nto dwell in the kids' bodies,
+Dialogue: 0,0:20:05.68,0:20:07.81,Italics,Rimuru,0000,0000,0000,,and we headed to the Dwelling of Spirits.
+Dialogue: 0,0:20:08.47,0:20:11.00,Italics,Rimuru,0000,0000,0000,,Our goal was to capture superior spirits.
+Dialogue: 0,0:20:11.35,0:20:16.92,Italics,Rimuru,0000,0000,0000,,In the Dwelling of Spirits, we got \Nthe Queen of Spirits, Ramiris, to help us.
+Dialogue: 0,0:20:17.92,0:20:18.94,Main,Rimuru,0000,0000,0000,,Right!
+Dialogue: 0,0:20:19.45,0:20:24.26,Main,Rimuru,0000,0000,0000,,Kenya, Ryota, Gale, Alice, Chloe...
+Dialogue: 0,0:20:24.26,0:20:25.25,Main,Rimuru,0000,0000,0000,,Let's do this!
+Dialogue: 0,0:20:25.25,0:20:26.38,Main,Kids,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:27.12,0:20:30.85,Italics,Rimuru,0000,0000,0000,,Shizu-san, wherever you are, \Nare you watching?
+Dialogue: 0,0:20:30.85,0:20:34.73,Italics,Rimuru,0000,0000,0000,,I'll make sure your wish is realized.
+Dialogue: 0,0:20:40.00,0:20:41.59,Italics,Rimuru,0000,0000,0000,,And then...
+Dialogue: 0,0:20:42.21,0:20:45.09,Italics,Rimuru,0000,0000,0000,,I helped each of the kids house a spirit,
+Dialogue: 0,0:20:45.09,0:20:48.28,Italics,Rimuru,0000,0000,0000,,successfully stabilizing \Nthe magicules in their bodies.
+Dialogue: 0,0:20:48.73,0:20:54.54,Italics,Rimuru,0000,0000,0000,,Although I'm not sure what the one \Nthat took up residence in Chloe was...
+Dialogue: 0,0:20:54.54,0:20:57.16,Italics,Rimuru,0000,0000,0000,,But it worked out, so it's not a problem!
+Dialogue: 0,0:20:57.16,0:20:59.58,Italics,Rimuru,0000,0000,0000,,Yep! All's well that ends well!
+Dialogue: 0,0:21:10.58,0:21:12.29,Italics,Rimuru,0000,0000,0000,,I did it, Shizu-san.
+Dialogue: 0,0:21:12.69,0:21:14.72,Italics,Rimuru,0000,0000,0000,,They'll be okay now.
+Dialogue: 0,0:21:15.95,0:21:19.93,Italics,Rimuru,0000,0000,0000,,With that, Shizu-san's \Nlingering regret was resolved.
+Dialogue: 0,0:21:19.93,0:21:22.01,Italics,Rimuru,0000,0000,0000,,And they all lived happily ever after!
+Dialogue: 0,0:21:24.16,0:21:27.42,Italics,Rimuru,0000,0000,0000,,At least, that's what I thought.
+Dialogue: 0,0:21:27.42,0:21:31.76,Italics,Rimuru,0000,0000,0000,,But I had no idea that \Nan unimaginable disaster
+Dialogue: 0,0:21:31.76,0:21:37.73,Italics,Rimuru,0000,0000,0000,,was about to strike Tempest, \Nmy allies, and me personally...
+Dialogue: 0,0:21:38.29,0:21:42.73,Italics,Rimuru,0000,0000,0000,,and that disaster would be brought to us
+Dialogue: 0,0:21:42.73,0:21:46.43,Italics,Rimuru,0000,0000,0000,,by Shizu-san's former student, \NHinata Sakaguchi.
+Dialogue: 0,0:21:53.00,0:21:57.52,Main,Hinata,0000,0000,0000,,Rimuru Tempest... and Shizu-sensei?
+Dialogue: 0,0:22:00.46,0:22:04.56,Main,Hinata,0000,0000,0000,,I see. So you...
+Dialogue: 0,0:22:05.95,0:22:08.42,Main,Hinata,0000,0000,0000,,killed Shizu-sensei.

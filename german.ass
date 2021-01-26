@@ -1,0 +1,359 @@
+﻿[Script Info]
+Title: [Erai-raws] Deutsch
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,1
+Style: Internal,Arial,23,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Flashback,Arial,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Flashback Internal,Arial,23,&H00F7ECEB,&H000000FF,&H004D0701,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0000,0000,0020,0
+Style: Onscreen1,Georgia,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,8,0010,0010,0100,1
+Style: EpiTitle,Georgia,23,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,1,9,0010,0040,0020,1
+Style: Mapbaeh,Verdana,19,&H00052940,&H000000FF,&H0064A7BE,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0100,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.65,0:00:07.10,Default,,0000,0000,0000,,Diese Welt …
+Dialogue: 0,0:00:08.12,0:00:10.17,Default,,0000,0000,0000,,ist voller Verzweiflung.
+Dialogue: 0,0:00:12.80,0:00:14.83,Flashback,,0000,0000,0000,,Wenn du nicht mehr weiter weißt,
+Dialogue: 0,0:00:14.83,0:00:16.83,Flashback,,0000,0000,0000,,kannst du auf mich zählen.
+Dialogue: 0,0:00:19.84,0:00:21.29,Default,,0000,0000,0000,,Frau Shizu.
+Dialogue: 0,0:00:22.41,0:00:25.18,Default,,0000,0000,0000,,Anführerin der Leibgarde\Ndes Heiligen Herrschers.
+Dialogue: 0,0:00:25.18,0:00:27.66,Default,,0000,0000,0000,,Anführerin der Heiligen Ritter,\NHinata Sakaguchi.
+Dialogue: 0,0:00:28.15,0:00:29.57,Default,,0000,0000,0000,,Was gibt es?
+Dialogue: 0,0:00:29.57,0:00:31.88,Default,,0000,0000,0000,,Wir haben einen neuen Bericht\Nvon Händlern aus dem Osten.
+Dialogue: 0,0:00:32.61,0:00:33.74,Default,,0000,0000,0000,,Verstanden.
+Dialogue: 0,0:00:38.23,0:00:39.93,Default,,0000,0000,0000,,Ein Land von Monster.
+Dialogue: 0,0:00:40.28,0:00:42.48,Default,,0000,0000,0000,,Die Republik Jura-Tempest.
+Dialogue: 0,0:00:43.43,0:00:45.90,Mapbaeh,,0000,0000,0000,,{\fad(800,0)\blur1.5\pos(320,180)\t(\fscx125\fscy125)}Republik Jura-Tempest
+Dialogue: 0,0:00:43.84,0:00:48.30,Default,,0000,0000,0000,,Der große Jura-Wald, der sich im\Nmittleren Osten des Kontinents erstreckt.
+Dialogue: 0,0:00:49.02,0:00:50.27,Default,,0000,0000,0000,,Goblin und Oger.
+Dialogue: 0,0:00:50.70,0:00:51.36,Default,,0000,0000,0000,,Orks.
+Dialogue: 0,0:00:51.71,0:00:53.20,Default,,0000,0000,0000,,Und selbst Echsenmenschen.
+Dialogue: 0,0:00:53.20,0:00:56.56,Default,,0000,0000,0000,,Viele unterschiedliche Arten von Monstern\Nwohnen in diesem Wald.
+Dialogue: 0,0:00:56.56,0:00:58.53,Default,,0000,0000,0000,,Unerwartet hat sich eine Nation gebildet.
+Dialogue: 0,0:00:59.83,0:01:01.43,Default,,0000,0000,0000,,Eine Nation der Monster.
+Dialogue: 0,0:01:01.91,0:01:02.91,Default,,0000,0000,0000,,Tempest.
+Dialogue: 0,0:01:03.71,0:01:06.50,Default,,0000,0000,0000,,Die Stadt ist sauber und wohnlich.
+Dialogue: 0,0:01:09.32,0:01:13.30,Default,,0000,0000,0000,,Die Bewohner lernen\Ndas Schreiben und das Rechnen.
+Dialogue: 0,0:01:13.30,0:01:15.38,Default,,0000,0000,0000,,Technisch sind sie weit entwickelt.
+Dialogue: 0,0:01:15.38,0:01:16.55,Default,,0000,0000,0000,,Waffen und Rüstungen, …
+Dialogue: 0,0:01:16.89,0:01:19.26,Default,,0000,0000,0000,,aber auch Webstoffe produzieren sie.
+Dialogue: 0,0:01:19.43,0:01:21.26,Mapbaeh,,0000,0000,0000,,{\fad(800,0)\blur1.5\pos(320,180)\t(\fscx110\fscy110)\3c&H6E8EAD&}Kriegsnation Dwargon
+Dialogue: 0,0:01:21.26,0:01:24.48,Default,,0000,0000,0000,,Mit dem Land der Zwerge,\Ndas von Gazelle Dwargo regiert wird,
+Dialogue: 0,0:01:24.48,0:01:26.60,Default,,0000,0000,0000,,der Kriegsnation Dwargon …
+Dialogue: 0,0:01:28.15,0:01:29.98,Mapbaeh,,0000,0000,0000,,{\fad(800,0)\blur1.5\move(320,160,320,150)\t(\fscx115\fscy115)}Königreich Burmund
+Dialogue: 0,0:01:28.75,0:01:33.19,Default,,0000,0000,0000,,und dem Menschenkönigreich Burmund\Nkonnten sie freundschaftliche Bande knüpfen.
+Dialogue: 0,0:01:34.47,0:01:36.57,Default,,0000,0000,0000,,Sie treiben außerdem Handel
+Dialogue: 0,0:01:36.57,0:01:38.88,Default,,0000,0000,0000,,und stabilisieren sich wirtschaftlich.
+Dialogue: 0,0:01:39.37,0:01:41.83,Default,,0000,0000,0000,,Ihr Einfluss wächst von Tag zu Tag.
+Dialogue: 0,0:01:43.23,0:01:45.18,Default,,0000,0000,0000,,Der Anführer der Nation der Monster.
+Dialogue: 0,0:01:45.18,0:01:48.24,Default,,0000,0000,0000,,Der Anführer der Republik Jura-Tempest.
+Dialogue: 0,0:01:50.62,0:01:51.98,Default,,0000,0000,0000,,Sein Name lautet …
+Dialogue: 0,0:01:52.53,0:01:54.98,Default,,0000,0000,0000,,Rimuru Tempest.
+Dialogue: 0,0:01:57.93,0:01:59.04,Default,,0000,0000,0000,,Rimuru.
+Dialogue: 0,0:03:31.47,0:03:33.52,Internal,,0000,0000,0000,,Ich bin Rimuru Tempest.
+Dialogue: 0,0:03:31.48,0:03:35.23,EpiTitle,,0000,0000,0000,,{\fad(950,950)\bord0.7\blur0.5\alpha&HFF&\t(0,160,\alpha&H00&)}E{\alpha&HFF&\t(47,207,\alpha&H00&)}p{\alpha&HFF&\t(95,255,\alpha&H00&)}i{\alpha&HFF&\t(143,303,\alpha&H00&)}s{\alpha&HFF&\t(190,350,\alpha&H00&)}o{\alpha&HFF&\t(238,398,\alpha&H00&)}d{\alpha&HFF&\t(286,446,\alpha&H00&)}e {\alpha&HFF&\t(333,493,\alpha&H00&)}2{\alpha&HFF&\t(381,541,\alpha&H00&)}4{\alpha&HFF&\t(429,589,\alpha&H00&)}.{\alpha&HFF&\t(476,636,\alpha&H00&)}9{\alpha&HFF&\t(524,684,\alpha&H00&)}: {\alpha&HFF&\t(572,732,\alpha&H00&)}H{\alpha&HFF&\t(620,780,\alpha&H00&)}i{\alpha&HFF&\t(667,827,\alpha&H00&)}n{\alpha&HFF&\t(715,875,\alpha&H00&)}a{\alpha&HFF&\t(763,923,\alpha&H00&)}t{\alpha&HFF&\t(810,970,\alpha&H00&)}a {\alpha&HFF&\t(858,1018,\alpha&H00&)}S{\alpha&HFF&\t(906,1066,\alpha&H00&)}a{\alpha&HFF&\t(953,1113,\alpha&H00&)}k{\alpha&HFF&\t(1001,1161,\alpha&H00&)}a{\alpha&HFF&\t(1049,1209,\alpha&H00&)}g{\alpha&HFF&\t(1096,1256,\alpha&H00&)}u{\alpha&HFF&\t(1144,1304,\alpha&H00&)}c{\alpha&HFF&\t(1192,1352,\alpha&H00&)}h{\alpha&HFF&\t(1240,1400,\alpha&H00&)}i
+Dialogue: 0,0:03:33.52,0:03:36.15,Internal,,0000,0000,0000,,Wie du siehst bin ich ein Schleim.
+Dialogue: 0,0:03:36.80,0:03:37.40,Internal,,0000,0000,0000,,Aber …
+Dialogue: 0,0:03:37.67,0:03:39.85,Internal,,0000,0000,0000,,ich war einmal ein Mensch.
+Dialogue: 0,0:03:44.81,0:03:46.49,Flashback,,0000,0000,0000,,Was für ein friedlicher Tag.
+Dialogue: 0,0:03:47.08,0:03:49.08,Internal,,0000,0000,0000,,Das bin ich von damals.
+Dialogue: 0,0:03:49.39,0:03:52.09,Internal,,0000,0000,0000,,Satoru Mikami, 37 Jahre alt.
+Dialogue: 0,0:03:52.09,0:03:52.83,Internal,,0000,0000,0000,,Jungfrau.
+Dialogue: 0,0:03:52.83,0:03:55.15,Internal,,0000,0000,0000,,Ähm, also, wie auch immer …
+Dialogue: 0,0:03:55.15,0:03:58.84,Internal,,0000,0000,0000,,Wenn ich so frei sein darf,\Nich war ein feiner Kerl.
+Dialogue: 0,0:03:58.84,0:04:00.78,Internal,,0000,0000,0000,,Denke ich zumindest.
+Dialogue: 0,0:04:00.78,0:04:02.01,Internal,,0000,0000,0000,,Meint ihr nicht?
+Dialogue: 0,0:04:02.01,0:04:03.34,Internal,,0000,0000,0000,,Ich hab recht, oder?
+Dialogue: 0,0:04:04.59,0:04:07.31,Internal,,0000,0000,0000,,Ich arbeite bei einem\Ngroßen Bauunternehmen
+Dialogue: 0,0:04:07.31,0:04:10.11,Internal,,0000,0000,0000,,und war ein ganz guter Büroarbeiter.
+Dialogue: 0,0:04:10.49,0:04:11.85,Internal,,0000,0000,0000,,Aber …
+Dialogue: 0,0:04:18.90,0:04:19.82,Flashback,,0000,0000,0000,,Tamura!
+Dialogue: 0,0:04:38.38,0:04:40.12,Flashback,,0000,0000,0000,,Senpai!
+Dialogue: 0,0:04:42.74,0:04:44.51,Internal,,0000,0000,0000,,Ich wurde auf offener Straße erstochen …
+Dialogue: 0,0:04:46.35,0:04:47.61,Internal,,0000,0000,0000,,und bin gestorben.
+Dialogue: 0,0:04:51.39,0:04:53.04,Internal,,0000,0000,0000,,Und dann …
+Dialogue: 0,0:04:53.41,0:04:54.89,Internal,,0000,0000,0000,,wurde ich irgendwie in …
+Dialogue: 0,0:04:55.22,0:04:57.84,Internal,,0000,0000,0000,,einer anderen Welt\Nals Schleim wiedergeboren.
+Dialogue: 0,0:04:57.84,0:04:59.37,Internal,,0000,0000,0000,,So sieht’s aus.
+Dialogue: 0,0:05:06.49,0:05:09.11,Flashback,,0000,0000,0000,,Ich bin der Sturmdrache Veldora.
+Dialogue: 0,0:05:09.11,0:05:10.66,Flashback,,0000,0000,0000,,Sturmdrache?
+Dialogue: 0,0:05:10.66,0:05:15.08,Flashback,,0000,0000,0000,,Ich bin ein Drache einer der\Nvier Drachenarten in dieser Welt.
+Dialogue: 0,0:05:22.75,0:05:26.03,Internal,,0000,0000,0000,,Erst einmal habe ich mich\Nmit Veldora angefreundet.
+Dialogue: 0,0:05:29.06,0:05:32.47,Flashback,,0000,0000,0000,,Bitte schützt uns.\NSolltet Ihr das tun,
+Dialogue: 0,0:05:32.47,0:05:35.38,Flashback,,0000,0000,0000,,werden wir Euch treu ergeben sein.
+Dialogue: 0,0:05:35.38,0:05:36.44,Flashback,,0000,0000,0000,,Wir schwören es!
+Dialogue: 0,0:05:36.83,0:05:38.65,Flashback,,0000,0000,0000,,Ich, Rimuru Tempest,
+Dialogue: 0,0:05:38.65,0:05:43.94,Flashback,,0000,0000,0000,,werde eure Bitte an Stelle\Ndes Sturmdrachen Veldora erhören.
+Dialogue: 0,0:05:44.33,0:05:45.74,Internal,,0000,0000,0000,,Und so begab es sich,
+Dialogue: 0,0:05:45.74,0:05:48.36,Internal,,0000,0000,0000,,dass ich mich um die Goblins kümmerte.
+Dialogue: 0,0:05:48.36,0:05:51.37,Flashback,,0000,0000,0000,,Wir alle geloben Euch unsere Treue!
+Dialogue: 0,0:05:51.76,0:05:55.91,Internal,,0000,0000,0000,,Außerdem wurde ich\Nnoch zum Anführer der Wölfe.
+Dialogue: 0,0:05:56.29,0:05:59.13,Flashback,,0000,0000,0000,,Lasst uns Ihnen unsere Treue schwören.
+Dialogue: 0,0:05:59.44,0:06:02.71,Flashback,,0000,0000,0000,,Wir wollen weiter unter Ihnen dienen,\NMeister Rimuru.
+Dialogue: 0,0:06:03.98,0:06:05.26,Flashback,,0000,0000,0000,,Wirklich?
+Dialogue: 0,0:06:05.90,0:06:07.72,Flashback,,0000,0000,0000,,Ich habe nichts dagegen.
+Dialogue: 0,0:06:08.34,0:06:09.83,Flashback,,0000,0000,0000,,Dass wir Sie getroffen haben,
+Dialogue: 0,0:06:09.83,0:06:11.55,Flashback,,0000,0000,0000,,ist unser großes Glück gewesen.
+Dialogue: 0,0:06:14.01,0:06:17.10,Flashback,,0000,0000,0000,,Ich bin doch Ihre Sekretärin und Leibwache.
+Dialogue: 0,0:06:17.10,0:06:19.19,Flashback,,0000,0000,0000,,Da kann ich doch nicht einfach abhauen.
+Dialogue: 0,0:06:19.51,0:06:22.14,Flashback,,0000,0000,0000,,Bis wir unser Leben aushauchen!
+Dialogue: 0,0:06:22.14,0:06:22.87,Flashback,,0000,0000,0000,,D-…
+Dialogue: 0,0:06:23.23,0:06:24.44,Flashback,,0000,0000,0000,,Danke.
+Dialogue: 0,0:06:24.99,0:06:26.82,Internal,,0000,0000,0000,,Und mir nichts, dir nichts, …
+Dialogue: 0,0:06:27.11,0:06:32.86,Internal,,0000,0000,0000,,hatte ich eine große Menge an Gefolge,\Nseien es Oger oder Orks, beisammen.
+Dialogue: 0,0:06:33.74,0:06:37.48,Flashback,,0000,0000,0000,,So heißt unser Land also\NRepublik Jura-Tempest.
+Dialogue: 0,0:06:37.48,0:06:40.25,Flashback,,0000,0000,0000,,Dann soll diese Stadt Rimuru heißen!
+Dialogue: 0,0:06:40.52,0:06:41.50,Flashback,,0000,0000,0000,,Was?
+Dialogue: 0,0:06:41.50,0:06:43.65,Flashback,,0000,0000,0000,,Die Hauptstadt Rimuru!
+Dialogue: 0,0:06:43.65,0:06:45.62,Flashback,,0000,0000,0000,,Hey. Das ist peinlich.
+Dialogue: 0,0:06:45.62,0:06:47.04,Flashback,,0000,0000,0000,,Die Hauptstadt muss Rimuru heißen!
+Dialogue: 0,0:06:47.04,0:06:48.86,Flashback,,0000,0000,0000,,Anders geht’s nicht!
+Dialogue: 0,0:06:48.86,0:06:50.14,Flashback,,0000,0000,0000,,Allerdings.
+Dialogue: 0,0:06:50.14,0:06:52.05,Flashback,,0000,0000,0000,,Ein Name, gebührlich für unsere Hauptstadt.
+Dialogue: 0,0:06:52.89,0:06:57.18,Internal,,0000,0000,0000,,Nachdem ich ihr Anführer geworden war,\Nnahm ich mir fest vor,
+Dialogue: 0,0:06:57.18,0:07:03.15,Internal,,0000,0000,0000,,meine Freunde zu schützen und Tempest zu\Neinem wohlhabenden und sicheren Ort zu machen.
+Dialogue: 0,0:07:03.63,0:07:05.63,Internal,,0000,0000,0000,,Und dann habe ich es irgendwie geschafft, …
+Dialogue: 0,0:07:06.94,0:07:10.78,Internal,,0000,0000,0000,,Lehrer an einer Schule zu werden.
+Dialogue: 0,0:07:11.40,0:07:14.28,Internal,,0000,0000,0000,,Das hier ist das Königreich Inglasia.
+Dialogue: 0,0:07:11.41,0:07:14.28,Mapbaeh,,0000,0000,0000,,{\fad(800,0)\blur1.5\pos(320,160)\t(\fscx125\fscy125)}Königreich Inglasia
+Dialogue: 0,0:07:14.71,0:07:18.22,Internal,,0000,0000,0000,,Es ist ein kulturell weit entwickeltes, großes Land\Nim Westen des Kontinents,
+Dialogue: 0,0:07:18.22,0:07:20.97,Internal,,0000,0000,0000,,in dem es sehr rege zugeht.
+Dialogue: 0,0:07:23.92,0:07:26.76,Internal,,0000,0000,0000,,Dort gibt es eine Kooperation\Nvon Abenteurern, die Gilde.
+Dialogue: 0,0:07:26.76,0:07:32.09,Internal,,0000,0000,0000,,Diese hat eine Einrichtung, die sich der Ausbildung\Nihrer Mitglieder verschrieben hat. Die Freiheitsakademie.
+Dialogue: 0,0:07:33.05,0:07:38.47,Internal,,0000,0000,0000,,Und dort hatte ich mich einiger\Nbesonderer Kinder angenommen.
+Dialogue: 0,0:07:38.86,0:07:41.05,Internal,,0000,0000,0000,,Die Mädchen und Jungen
+Dialogue: 0,0:07:41.05,0:07:43.81,Internal,,0000,0000,0000,,waren das Vermächtnis von Shizu.
+Dialogue: 0,0:07:45.10,0:07:47.57,Internal,,0000,0000,0000,,Shizu war genau wie ich.
+Dialogue: 0,0:07:47.57,0:07:50.19,Internal,,0000,0000,0000,,Sie kam aus Japan in diese Welt.
+Dialogue: 0,0:07:59.00,0:08:01.41,Internal,,0000,0000,0000,,Ich bin gestorben und wurde wiedergeboren.
+Dialogue: 0,0:08:01.80,0:08:05.48,Internal,,0000,0000,0000,,Sie hingegen wurde beschworen.\NSie war eine Beschworene.
+Dialogue: 0,0:08:17.47,0:08:20.46,Internal,,0000,0000,0000,,Beschworen vom\NDämonenkönig Leon Cromwell.
+Dialogue: 0,0:08:21.22,0:08:23.11,Flashback,,0000,0000,0000,,Ich dachte, es wäre wieder nur Abfall.
+Dialogue: 0,0:08:23.11,0:08:25.71,Flashback,,0000,0000,0000,,Aber sie scheint für die Flamme geeignet.
+Dialogue: 0,0:08:31.35,0:08:32.50,Flashback,,0000,0000,0000,,Ifrit.
+Dialogue: 0,0:08:32.91,0:08:35.41,Flashback,,0000,0000,0000,,Ich gebe dir einen Körper.
+Dialogue: 0,0:08:36.17,0:08:37.56,Flashback,,0000,0000,0000,,Nutze ihn.
+Dialogue: 0,0:08:51.53,0:08:52.67,Internal,,0000,0000,0000,,Beschworene sind,
+Dialogue: 0,0:08:52.67,0:08:56.72,Internal,,0000,0000,0000,,wie der Name sagt,\Nin diese Welt beschworen worden.
+Dialogue: 0,0:08:56.72,0:08:58.43,Flashback,,0000,0000,0000,,Beschworene?
+Dialogue: 0,0:08:58.43,0:09:00.72,Flashback,,0000,0000,0000,,Wie unterscheiden die sich\Nvon den „Menschen von einer anderen Welt“?
+Dialogue: 0,0:09:01.02,0:09:05.25,Flashback,,0000,0000,0000,,Er wurde von über 30 Magiern\Nin einer tagelangen Zeremonie
+Dialogue: 0,0:09:05.25,0:09:06.98,Flashback,,0000,0000,0000,,aus einer anderen Welt gerufen.
+Dialogue: 0,0:09:07.32,0:09:10.70,Flashback,,0000,0000,0000,,Magie wird auch als\Nmächtige Waffe genutzt.
+Dialogue: 0,0:09:10.70,0:09:11.86,Flashback,,0000,0000,0000,,Als Waffe?
+Dialogue: 0,0:09:11.86,0:09:13.78,Flashback,,0000,0000,0000,,Als Waffe der Beschwörer.
+Dialogue: 0,0:09:13.78,0:09:19.24,Flashback,,0000,0000,0000,,Damit die Beschworenen nicht gegen die Beschwörer\Nrebellieren, werden ihre Seelen verflucht.
+Dialogue: 0,0:09:19.24,0:09:22.24,Flashback,,0000,0000,0000,,Was zum …? Das ist aber fies!
+Dialogue: 0,0:09:22.24,0:09:24.15,Flashback,,0000,0000,0000,,Meinst du?
+Dialogue: 0,0:09:24.15,0:09:26.90,Flashback,,0000,0000,0000,,Ich weiß nicht,\Nwie es in deiner Welt war,
+Dialogue: 0,0:09:26.90,0:09:31.32,Flashback,,0000,0000,0000,,aber in dieser Welt gilt\Ndas Prinzip des Stärkeren.
+Dialogue: 0,0:09:31.32,0:09:32.67,Flashback,,0000,0000,0000,,Ist das so?
+Dialogue: 0,0:09:34.67,0:09:38.97,Internal,,0000,0000,0000,,Der Dämonenkönig Leon hatte\NShizu unter seiner Kontrolle.
+Dialogue: 0,0:09:38.99,0:09:41.33,Internal,,0000,0000,0000,,Ob das wegen des Fluchs
+Dialogue: 0,0:09:41.33,0:09:44.43,Internal,,0000,0000,0000,,oder wegen des Flammen-Naturgeists Ifrit war,
+Dialogue: 0,0:09:44.70,0:09:47.23,Internal,,0000,0000,0000,,wusste Shizu selbst nicht.
+Dialogue: 0,0:09:49.56,0:09:51.53,Internal,,0000,0000,0000,,Mehrere Jahre vergingen …
+Dialogue: 0,0:09:51.94,0:09:53.78,Internal,,0000,0000,0000,,und sie ging durch schlimme Gefechte.
+Dialogue: 0,0:09:54.61,0:09:57.82,Internal,,0000,0000,0000,,Der Dämonenkönig verließ\Nsein Schloss und verschwand.
+Dialogue: 0,0:09:58.69,0:10:00.82,Internal,,0000,0000,0000,,Shizu wurde zurückgelassen.
+Dialogue: 0,0:10:06.50,0:10:07.77,Flashback,,0000,0000,0000,,Ich kann nicht gewinnen.
+Dialogue: 0,0:10:11.59,0:10:15.01,Internal,,0000,0000,0000,,Ein Held errettete sie.
+Dialogue: 0,0:10:15.55,0:10:18.47,Internal,,0000,0000,0000,,Sie reiste viele Jahre mit dem Helden umher
+Dialogue: 0,0:10:18.47,0:10:20.14,Internal,,0000,0000,0000,,und nachdem sich ihre Wege getrennt hatten, …
+Dialogue: 0,0:10:21.27,0:10:25.97,Internal,,0000,0000,0000,,machte sich Shizu auf, leidenden Menschen\Nin aller Welt als Abenteurer zu helfen.
+Dialogue: 0,0:10:26.60,0:10:30.16,Internal,,0000,0000,0000,,Irgendwann wurde sie eine Heldin genannt.
+Dialogue: 0,0:10:30.80,0:10:33.48,Internal,,0000,0000,0000,,Aber mit den Jahren
+Dialogue: 0,0:10:33.48,0:10:38.23,Internal,,0000,0000,0000,,wurde ihre magische Kraft immer schwächer\Nund Ifrit immer schwieriger zu bändigen.
+Dialogue: 0,0:10:38.99,0:10:42.72,Internal,,0000,0000,0000,,Um nicht irgendwann eine ihr wichtige Person\Nversehentlich zu verletzen,
+Dialogue: 0,0:10:42.72,0:10:47.02,Internal,,0000,0000,0000,,zog sie nicht länger als Abenteurer umher,\Nsondern wurde Lehrerin an der Freiheitsakademie.
+Dialogue: 0,0:10:48.02,0:10:49.50,Internal,,0000,0000,0000,,Einer ihrer Schüler war
+Dialogue: 0,0:10:49.50,0:10:52.58,Internal,,0000,0000,0000,,unter anderem Yuki Kagurazaka,
+Dialogue: 0,0:10:52.58,0:10:54.42,Internal,,0000,0000,0000,,der Leiter der Gilde werden sollte.
+Dialogue: 0,0:10:54.88,0:10:58.46,Internal,,0000,0000,0000,,Es gab zwar auch welche,\Ndie Shizu zurückließen, …
+Dialogue: 0,0:10:59.03,0:11:00.72,Internal,,0000,0000,0000,,aber ihre letzten Schützlinge …
+Dialogue: 0,0:11:01.69,0:11:02.39,Internal,,0000,0000,0000,,waren diese hier:
+Dialogue: 0,0:11:02.82,0:11:04.30,Internal,,0000,0000,0000,,Kenya Misaki, …
+Dialogue: 0,0:11:04.59,0:11:05.97,Internal,,0000,0000,0000,,Ryota Sekiguchi, …
+Dialogue: 0,0:11:06.48,0:11:07.47,Internal,,0000,0000,0000,,Gale Gibson, …
+Dialogue: 0,0:11:08.18,0:11:09.10,Internal,,0000,0000,0000,,Alice Rondo …
+Dialogue: 0,0:11:09.75,0:11:11.98,Internal,,0000,0000,0000,,und Cloe Aubert.
+Dialogue: 0,0:11:13.20,0:11:17.21,Internal,,0000,0000,0000,,Sie alle waren alle\NBeschworene aus meiner alten Welt.
+Dialogue: 0,0:11:17.84,0:11:20.24,Flashback,,0000,0000,0000,,Frau Lehrerin, was lernen wir heute?
+Dialogue: 0,0:11:20.24,0:11:21.95,Flashback,,0000,0000,0000,,Nun, also heute …
+Dialogue: 0,0:11:21.95,0:11:23.87,Flashback,,0000,0000,0000,,Was wollt ihr machen?
+Dialogue: 0,0:11:24.62,0:11:25.37,Internal,,0000,0000,0000,,Aber …
+Dialogue: 0,0:11:26.39,0:11:30.96,Internal,,0000,0000,0000,,Shizu merkte, dass ihre Tage gezählt waren.
+Dialogue: 0,0:11:32.46,0:11:34.29,Internal,,0000,0000,0000,,Sie brach also zu ihrer letzten Reise auf.
+Dialogue: 0,0:11:35.69,0:11:38.88,Flashback,,0000,0000,0000,,Gefällt dir unsere Stadt?
+Dialogue: 0,0:11:42.19,0:11:44.39,Flashback,,0000,0000,0000,,Ja, sehr.
+Dialogue: 0,0:11:45.45,0:11:49.27,Flashback,,0000,0000,0000,,Wenn du magst, Shizu,\Nkannst du so lange bleiben, wie du willst.
+Dialogue: 0,0:11:49.27,0:11:50.69,Flashback,,0000,0000,0000,,Danke dir.
+Dialogue: 0,0:11:51.20,0:11:53.25,Flashback,,0000,0000,0000,,Aber ich muss gehen.
+Dialogue: 0,0:11:53.25,0:11:54.36,Flashback,,0000,0000,0000,,Ach ja?
+Dialogue: 0,0:11:55.16,0:11:58.53,Flashback,,0000,0000,0000,,Wenn ich hier bleibe,\Nfalle ich euch nur zur Last.
+Dialogue: 0,0:11:58.85,0:11:59.79,Flashback,,0000,0000,0000,,Was?
+Dialogue: 0,0:12:02.10,0:12:04.57,Flashback,,0000,0000,0000,,Das Ziel meiner Reise …
+Dialogue: 0,0:12:04.57,0:12:06.07,Flashback,,0000,0000,0000,,Ziel?
+Dialogue: 0,0:12:07.49,0:12:10.87,Flashback,,0000,0000,0000,,Ich suche den Mann,\Nder mich beschworen hat.
+Dialogue: 0,0:12:12.18,0:12:14.18,Flashback,,0000,0000,0000,,Was hast du vor,\Nwenn du ihn findest?
+Dialogue: 0,0:12:16.76,0:12:19.07,Internal,,0000,0000,0000,,Um den Dämonenkönig Leon Cromwell
+Dialogue: 0,0:12:19.07,0:12:20.92,Internal,,0000,0000,0000,,noch einmal zu treffen …
+Dialogue: 0,0:12:21.79,0:12:25.19,Internal,,0000,0000,0000,,Dies sollte ihr jedoch\Nnicht mehr vergönnt sein.
+Dialogue: 0,0:12:30.47,0:12:33.00,Flashback,,0000,0000,0000,,Friss das! Icicle Shot!
+Dialogue: 0,0:12:36.74,0:12:39.40,Internal,,0000,0000,0000,,Sie konnte Ifrit nicht mehr unterdrücken.
+Dialogue: 0,0:12:39.40,0:12:40.78,Internal,,0000,0000,0000,,Und so …
+Dialogue: 0,0:12:51.50,0:12:53.39,Flashback,,0000,0000,0000,,Hey, Schleim.
+Dialogue: 0,0:12:54.12,0:12:55.93,Flashback,,0000,0000,0000,,Wie lautet dein Name?
+Dialogue: 0,0:12:55.93,0:12:58.40,Flashback,,0000,0000,0000,,Hm? Ich heiße Rimuru.
+Dialogue: 0,0:12:59.19,0:13:01.59,Flashback,,0000,0000,0000,,Ich meine deinen echten Namen.
+Dialogue: 0,0:13:01.97,0:13:03.06,Flashback,,0000,0000,0000,,Ach so.
+Dialogue: 0,0:13:03.76,0:13:05.16,Flashback,,0000,0000,0000,,Ich heiße Satoru.
+Dialogue: 0,0:13:05.71,0:13:07.09,Flashback,,0000,0000,0000,,Satoru Mikami.
+Dialogue: 0,0:13:07.94,0:13:09.56,Flashback,,0000,0000,0000,,Ich heiße Shizue.
+Dialogue: 0,0:13:10.57,0:13:12.02,Flashback,,0000,0000,0000,,Shizue Izawa.
+Dialogue: 0,0:13:16.60,0:13:19.49,Flashback,,0000,0000,0000,,Shizue, schlafe doch ein wenig.
+Dialogue: 0,0:13:20.21,0:13:21.40,Flashback,,0000,0000,0000,,Satoru.
+Dialogue: 0,0:13:22.20,0:13:24.10,Flashback,,0000,0000,0000,,Ich hätte eine Bitte.
+Dialogue: 0,0:13:24.59,0:13:25.77,Flashback,,0000,0000,0000,,Kann ich sie dir stellen?
+Dialogue: 0,0:13:26.24,0:13:28.76,Flashback,,0000,0000,0000,,Natürlich. Was auch immer es ist.
+Dialogue: 0,0:13:32.29,0:13:33.49,Flashback,,0000,0000,0000,,Bitte …
+Dialogue: 0,0:13:34.99,0:13:35.83,Flashback,,0000,0000,0000,,iss mich.
+Dialogue: 0,0:13:38.67,0:13:40.60,Flashback,,0000,0000,0000,,Und iss damit …
+Dialogue: 0,0:13:41.60,0:13:42.50,Flashback,,0000,0000,0000,,den Fluch, …
+Dialogue: 0,0:13:43.14,0:13:44.95,Flashback,,0000,0000,0000,,der auf mir lastet.
+Dialogue: 0,0:13:46.66,0:13:47.95,Flashback,,0000,0000,0000,,Das wäre wunderbar.
+Dialogue: 0,0:13:51.52,0:13:52.89,Flashback,,0000,0000,0000,,Ich verabscheue …
+Dialogue: 0,0:13:53.85,0:13:54.77,Flashback,,0000,0000,0000,,diese Welt.
+Dialogue: 0,0:13:56.27,0:13:57.23,Flashback,,0000,0000,0000,,Dennoch …
+Dialogue: 0,0:13:57.58,0:13:58.77,Flashback,,0000,0000,0000,,kann ich sie nicht hassen.
+Dialogue: 0,0:14:00.27,0:14:01.41,Flashback,,0000,0000,0000,,Genau wie
+Dialogue: 0,0:14:01.41,0:14:02.86,Flashback,,0000,0000,0000,,{\i1}jener{\i0} Mann.
+Dialogue: 0,0:14:03.67,0:14:04.68,Flashback,,0000,0000,0000,,Deshalb …
+Dialogue: 0,0:14:05.25,0:14:06.18,Flashback,,0000,0000,0000,,Deshalb …
+Dialogue: 0,0:14:07.68,0:14:10.84,Flashback,,0000,0000,0000,,will ich nicht in dieser Welt verweilen.
+Dialogue: 0,0:14:12.88,0:14:14.12,Flashback,,0000,0000,0000,,Das ist meine letzte …
+Dialogue: 0,0:14:14.52,0:14:15.37,Flashback,,0000,0000,0000,,Bitte.
+Dialogue: 0,0:14:18.68,0:14:19.98,Flashback,,0000,0000,0000,,Bitte lass mich …
+Dialogue: 0,0:14:20.81,0:14:22.44,Flashback,,0000,0000,0000,,in dir
+Dialogue: 0,0:14:22.44,0:14:24.38,Flashback,,0000,0000,0000,,hinwegschlummern.
+Dialogue: 0,0:14:31.26,0:14:32.14,Flashback,,0000,0000,0000,,Natürlich.
+Dialogue: 0,0:14:37.81,0:14:40.32,Flashback,,0000,0000,0000,,Ich, Satoru Mikami, verspreche es dir.
+Dialogue: 0,0:14:40.32,0:14:43.23,Flashback,,0000,0000,0000,,Nein, bei meinem Namen Rimuru Tempest.
+Dialogue: 0,0:14:43.23,0:14:45.52,Flashback,,0000,0000,0000,,Ich werde Leon Cromwell deine Gedanken
+Dialogue: 0,0:14:45.52,0:14:47.32,Flashback,,0000,0000,0000,,unmissverständlich wissen lassen.
+Dialogue: 0,0:14:48.25,0:14:49.76,Flashback,,0000,0000,0000,,Danke.
+Dialogue: 0,0:15:00.61,0:15:01.81,Flashback,,0000,0000,0000,,Shizu.
+Dialogue: 0,0:15:03.02,0:15:04.63,Flashback,,0000,0000,0000,,Meine Seelenverwandte.
+Dialogue: 0,0:15:04.63,0:15:06.24,Flashback,,0000,0000,0000,,Ruhe in Frieden.
+Dialogue: 0,0:15:06.57,0:15:08.09,Flashback,,0000,0000,0000,,In mir.
+Dialogue: 0,0:15:08.09,0:15:11.33,Flashback,,0000,0000,0000,,Möchtest du den\NUnique-Skill Raubtier anwenden?
+Dialogue: 0,0:15:08.13,0:15:12.30,Onscreen1,,0000,0000,0000,,{\bord0\shad0\fs-3\alpha&HFF&\t(0,80,\alpha&H00&)\pos(320,54.4)\c&HBAC9C8&}M{\alpha&HFF&\t(29,109,\alpha&H00&)}ö{\alpha&HFF&\t(59,139,\alpha&H00&)}c{\alpha&HFF&\t(89,169,\alpha&H00&)}h{\alpha&HFF&\t(119,199,\alpha&H00&)}t{\alpha&HFF&\t(148,228,\alpha&H00&)}e{\alpha&HFF&\t(178,258,\alpha&H00&)}s{\alpha&HFF&\t(208,288,\alpha&H00&)}t {\alpha&HFF&\t(238,318,\alpha&H00&)}d{\alpha&HFF&\t(267,347,\alpha&H00&)}u\N{\alpha&HFF&\t(297,377,\alpha&H00&)}d{\alpha&HFF&\t(327,407,\alpha&H00&)}e{\alpha&HFF&\t(357,437,\alpha&H00&)}n {\alpha&HFF&\t(386,466,\alpha&H00&)}U{\alpha&HFF&\t(416,496,\alpha&H00&)}n{\alpha&HFF&\t(446,526,\alpha&H00&)}i{\alpha&HFF&\t(476,556,\alpha&H00&)}q{\alpha&HFF&\t(505,585,\alpha&H00&)}u{\alpha&HFF&\t(535,615,\alpha&H00&)}e{\alpha&HFF&\t(565,645,\alpha&H00&)}-{\alpha&HFF&\t(595,675,\alpha&H00&)}S{\alpha&HFF&\t(624,704,\alpha&H00&)}k{\alpha&HFF&\t(654,734,\alpha&H00&)}i{\alpha&HFF&\t(684,764,\alpha&H00&)}l{\alpha&HFF&\t(714,794,\alpha&H00&)}l {\alpha&HFF&\t(743,823,\alpha&H00&)}R{\alpha&HFF&\t(773,853,\alpha&H00&)}a{\alpha&HFF&\t(803,883,\alpha&H00&)}u{\alpha&HFF&\t(833,913,\alpha&H00&)}b{\alpha&HFF&\t(862,942,\alpha&H00&)}t{\alpha&HFF&\t(892,972,\alpha&H00&)}i{\alpha&HFF&\t(922,1002,\alpha&H00&)}e{\alpha&HFF&\t(952,1032,\alpha&H00&)}r {\alpha&HFF&\t(981,1061,\alpha&H00&)}a{\alpha&HFF&\t(1011,1091,\alpha&H00&)}n{\alpha&HFF&\t(1041,1121,\alpha&H00&)}w{\alpha&HFF&\t(1071,1151,\alpha&H00&)}e{\alpha&HFF&\t(1100,1180,\alpha&H00&)}n{\alpha&HFF&\t(1130,1210,\alpha&H00&)}d{\alpha&HFF&\t(1160,1240,\alpha&H00&)}e{\alpha&HFF&\t(1190,1270,\alpha&H00&)}n{\alpha&HFF&\t(1220,1300,\alpha&H00&)}?
+Dialogue: 0,0:15:13.02,0:15:13.95,Flashback,,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:15.03,0:15:16.96,Flashback,,0000,0000,0000,,Auf dass du auf ewig ruhst.
+Dialogue: 0,0:15:16.96,0:15:19.60,Flashback,,0000,0000,0000,,In wunderbaren Träumen.
+Dialogue: 0,0:15:31.08,0:15:35.24,Default,,0000,0000,0000,,Möchtest du dich etwa\Nmeinen Plänen in den Weg stellen?
+Dialogue: 0,0:15:35.24,0:15:38.04,Default,,0000,0000,0000,,Anführer des großen Jura-Waldes,
+Dialogue: 0,0:15:38.04,0:15:39.83,Default,,0000,0000,0000,,Rimuru Tempest.
+Dialogue: 0,0:15:44.74,0:15:46.24,Default,,0000,0000,0000,,Orks.
+Dialogue: 0,0:15:46.72,0:15:52.43,Default,,0000,0000,0000,,Ich wollte diese hungernden Schweine nutzen und\Nmeine Macht mehren, aber …
+Dialogue: 0,0:16:13.65,0:16:16.18,Flashback,,0000,0000,0000,,Ich erkenne dich als Gegner an.
+Dialogue: 0,0:16:16.73,0:16:19.37,Flashback,,0000,0000,0000,,Deshalb mache ich nun auch ernst.
+Dialogue: 0,0:16:20.87,0:16:22.09,Flashback,,0000,0000,0000,,Dass ich nicht lache.
+Dialogue: 0,0:16:22.09,0:16:24.99,Flashback,,0000,0000,0000,,Das machst du doch schon die ganze Zeit.
+Dialogue: 0,0:16:25.30,0:16:28.13,Flashback,,0000,0000,0000,,Du bist machtlos!
+Dialogue: 0,0:16:29.70,0:16:32.63,Flashback,,0000,0000,0000,,Ich werde dich einfach verschlingen.
+Dialogue: 0,0:16:33.24,0:16:35.19,Flashback,,0000,0000,0000,,Bevor du mich frisst,
+Dialogue: 0,0:16:35.19,0:16:37.46,Flashback,,0000,0000,0000,,verspachtel ich dich!
+Dialogue: 0,0:16:38.93,0:16:40.14,Flashback,,0000,0000,0000,,Ich bin
+Dialogue: 0,0:16:40.14,0:16:41.45,Flashback,,0000,0000,0000,,ein Schleim.
+Dialogue: 0,0:16:46.17,0:16:47.65,Flashback,,0000,0000,0000,,Du Schuft!
+Dialogue: 0,0:16:48.21,0:16:51.67,Flashback,,0000,0000,0000,,Das mit dem Fressen\Nhast du nicht gepachtet!
+Dialogue: 0,0:16:53.31,0:16:55.66,Flashback,,0000,0000,0000,,Du frisst mich also schneller?
+Dialogue: 0,0:16:59.29,0:17:01.96,Flashback,,0000,0000,0000,,Oder bin doch ich schneller?
+Dialogue: 0,0:17:01.96,0:17:04.42,Flashback,,0000,0000,0000,,Wer schneller mampft, gewinnt.
+Dialogue: 0,0:17:24.35,0:17:25.94,Default,,0000,0000,0000,,Um ehrlich zu sein,
+Dialogue: 0,0:17:25.94,0:17:29.58,Default,,0000,0000,0000,,dachte ich nicht, dass mir\Njemand in die Quere kommen könnte.
+Dialogue: 0,0:17:34.43,0:17:35.53,Default,,0000,0000,0000,,Danach habe ich …
+Dialogue: 0,0:17:35.85,0:17:39.61,Default,,0000,0000,0000,,selbst den wiedererweckten\NCharybdis geschickt und …
+Dialogue: 0,0:17:40.78,0:17:44.66,Default,,0000,0000,0000,,der Dämonenkönig Milim\Nhat dir auch noch geholfen.
+Dialogue: 0,0:17:48.42,0:17:51.26,Flashback,,0000,0000,0000,,Die Technik kenn ich schon.
+Dialogue: 0,0:17:51.26,0:17:53.94,Flashback,,0000,0000,0000,,Ich zeig dir auch mal eine von mir.
+Dialogue: 0,0:17:59.22,0:18:00.47,Flashback,,0000,0000,0000,,Und zwar die.
+Dialogue: 0,0:18:01.17,0:18:04.43,Flashback,,0000,0000,0000,,Meine Zurückhaltung!
+Dialogue: 0,0:18:05.68,0:18:09.09,Flashback,,0000,0000,0000,,Dragon Buster!
+Dialogue: 0,0:18:19.18,0:18:21.16,Default,,0000,0000,0000,,Ach, wie auch immer.
+Dialogue: 0,0:18:21.58,0:18:23.50,Default,,0000,0000,0000,,Milim kann ich mir noch
+Dialogue: 0,0:18:23.50,0:18:25.53,Default,,0000,0000,0000,,zu Nutzen machen.
+Dialogue: 0,0:18:26.53,0:18:28.29,Default,,0000,0000,0000,,Dieser Schleim.
+Dialogue: 0,0:18:28.29,0:18:31.92,Default,,0000,0000,0000,,Dieser Rimuru und seine\Nach so wichtigen Freunde.
+Dialogue: 0,0:18:32.56,0:18:36.30,Default,,0000,0000,0000,,Sie alle sollen mit der\NNation Tempest untergehen.
+Dialogue: 0,0:18:37.51,0:18:41.89,Default,,0000,0000,0000,,So langsam sind sie mir\Nein echter Dorn im Auge.
+Dialogue: 0,0:18:42.99,0:18:44.12,Default,,0000,0000,0000,,Sie wissen nicht, …
+Dialogue: 0,0:18:44.60,0:18:50.94,Default,,0000,0000,0000,,was es heißt, sich den Dämonenkönig Clayman\Nzum Feind zu machen.
+Dialogue: 0,0:18:57.89,0:18:59.86,Internal,,0000,0000,0000,,Die Reue Shizus.
+Dialogue: 0,0:18:59.86,0:19:04.35,Internal,,0000,0000,0000,,Diese waren die fünf beschworenen Kinder.
+Dialogue: 0,0:19:05.31,0:19:06.83,Flashback,,0000,0000,0000,,Bei Beschwörungen kommt es vor,
+Dialogue: 0,0:19:06.83,0:19:09.36,Flashback,,0000,0000,0000,,das Kinder gerufen werden.
+Dialogue: 0,0:19:10.00,0:19:12.13,Flashback,,0000,0000,0000,,In diese Kinderkörper wird dann
+Dialogue: 0,0:19:12.51,0:19:15.91,Flashback,,0000,0000,0000,,mehr Energie eingespeist,\Nals für sie geeignet ist.
+Dialogue: 0,0:19:16.57,0:19:17.63,Flashback,,0000,0000,0000,,Dadurch werden diese Körper …
+Dialogue: 0,0:19:17.89,0:19:19.97,Flashback,,0000,0000,0000,,durch die Energie, die keinen Platz hat,
+Dialogue: 0,0:19:19.97,0:19:21.92,Flashback,,0000,0000,0000,,komplett verbrannt.
+Dialogue: 0,0:19:22.52,0:19:25.20,Flashback,,0000,0000,0000,,Wir haben noch keinen Weg gefunden,\Ndie Zerstörung aufzuhalten.
+Dialogue: 0,0:19:26.15,0:19:28.40,Flashback,,0000,0000,0000,,Kinder unter zehn Jahren,\Ndie beschworen werden,
+Dialogue: 0,0:19:28.40,0:19:32.08,Flashback,,0000,0000,0000,,sterben fast ausnahmslos\Ninnerhalb von fünf Jahren.
+Dialogue: 0,0:19:33.20,0:19:34.66,Flashback,,0000,0000,0000,,Ich bitte Sie.
+Dialogue: 0,0:19:34.66,0:19:38.11,Flashback,,0000,0000,0000,,Wenn Sie es irgendwie fertigbringen,\Nretten Sie die Kinder bitte.
+Dialogue: 0,0:19:39.74,0:19:42.09,Internal,,0000,0000,0000,,Ich mache alles,\Nwas in meiner Macht steht.
+Dialogue: 0,0:19:42.92,0:19:45.66,Internal,,0000,0000,0000,,Das habe ich und\Nwerde ich auch weiterhin.
+Dialogue: 0,0:19:47.08,0:19:48.81,Internal,,0000,0000,0000,,Ich hatte eine Idee.
+Dialogue: 0,0:19:49.25,0:19:54.58,Internal,,0000,0000,0000,,Shizu wurde als Kind beschworen,\Naber hat überlebt.
+Dialogue: 0,0:19:54.58,0:19:57.54,Internal,,0000,0000,0000,,Könnte es möglich gewesen sein,\Ndass sie durch Ifrit
+Dialogue: 0,0:19:57.54,0:20:00.47,Internal,,0000,0000,0000,,die Energie in ihrem Körper\Nkontrollieren konnte?
+Dialogue: 0,0:20:02.05,0:20:05.68,Internal,,0000,0000,0000,,Deshalb hatte ich mich aufgemacht,\Num Elementargeister für die Kinder zu finden.
+Dialogue: 0,0:20:05.68,0:20:07.81,Internal,,0000,0000,0000,,Wir machten uns auf den Weg\Nzum Hort der Geister.
+Dialogue: 0,0:20:08.58,0:20:11.13,Internal,,0000,0000,0000,,Wir mussten an\Nhöhere Elementargeister herankommen.
+Dialogue: 0,0:20:11.44,0:20:13.50,Internal,,0000,0000,0000,,Im Hort der Geister trafen wir Ramiris,
+Dialogue: 0,0:20:13.50,0:20:14.60,Internal,,0000,0000,0000,,die Königin der Geister.
+Dialogue: 0,0:20:14.60,0:20:17.08,Internal,,0000,0000,0000,,Sie half uns.
+Dialogue: 0,0:20:18.05,0:20:18.94,Flashback,,0000,0000,0000,,Okay!
+Dialogue: 0,0:20:19.64,0:20:24.02,Flashback,,0000,0000,0000,,Kenya, Ryota, Gale, Alice, Cloe!
+Dialogue: 0,0:20:24.45,0:20:25.42,Flashback,,0000,0000,0000,,Legen wir los.
+Dialogue: 0,0:20:25.42,0:20:26.34,Flashback,,0000,0000,0000,,Jawohl!
+Dialogue: 0,0:20:27.44,0:20:28.56,Flashback Internal,,0000,0000,0000,,Shizu,
+Dialogue: 0,0:20:28.93,0:20:30.91,Flashback Internal,,0000,0000,0000,,wachst du über uns?
+Dialogue: 0,0:20:30.91,0:20:32.52,Flashback Internal,,0000,0000,0000,,Shizus Wünsche …
+Dialogue: 0,0:20:32.88,0:20:34.72,Flashback Internal,,0000,0000,0000,,Ich werde sie erfüllen.
+Dialogue: 0,0:20:40.00,0:20:41.59,Internal,,0000,0000,0000,,Und so …
+Dialogue: 0,0:20:42.30,0:20:44.91,Internal,,0000,0000,0000,,bekam jedes der Kinder einen Elementargeist.
+Dialogue: 0,0:20:44.91,0:20:48.23,Default,,0000,0000,0000,,Damit schafften wir es die magische\NEnergie in ihnen zu kontrollieren.
+Dialogue: 0,0:20:48.82,0:20:54.23,Internal,,0000,0000,0000,,Bei Cloe bin ich mir jedoch nicht ganz so sicher,\Nwas sie da eigentlich aufgenommen hat.
+Dialogue: 0,0:20:54.64,0:20:57.48,Internal,,0000,0000,0000,,Aber alles ging gut,\Nalso soll mich das nicht stören.
+Dialogue: 0,0:20:57.49,0:20:59.61,Internal,,0000,0000,0000,,Ende gut, alles gut!
+Dialogue: 0,0:21:10.58,0:21:12.29,Internal,,0000,0000,0000,,Ich hab’s geschafft, Shizu.
+Dialogue: 0,0:21:12.80,0:21:14.86,Internal,,0000,0000,0000,,Sie sind gerettet.
+Dialogue: 0,0:21:15.97,0:21:17.29,Internal,,0000,0000,0000,,Damit
+Dialogue: 0,0:21:17.29,0:21:19.89,Internal,,0000,0000,0000,,waren Shizus letzte Aufgaben erledigt.
+Dialogue: 0,0:21:19.89,0:21:22.01,Internal,,0000,0000,0000,,Wie wunderbar, ja, wunderbar.
+Dialogue: 0,0:21:24.31,0:21:27.18,Internal,,0000,0000,0000,,Das dachte ich zumindest.
+Dialogue: 0,0:21:27.49,0:21:30.65,Internal,,0000,0000,0000,,Denn danach wurden Tempest,\Nunsere Verbündeten
+Dialogue: 0,0:21:30.65,0:21:35.09,Internal,,0000,0000,0000,,und selbst ich von einer\Nunsäglichen Katastrophe heimgesucht,
+Dialogue: 0,0:21:35.09,0:21:37.73,Internal,,0000,0000,0000,,mit der ich niemals hätte rechnen können.
+Dialogue: 0,0:21:38.27,0:21:40.10,Internal,,0000,0000,0000,,Eine alte Schülerin von Shizu
+Dialogue: 0,0:21:40.10,0:21:42.85,Internal,,0000,0000,0000,,mit dem Namen Hinata Sakaguchi war die,
+Dialogue: 0,0:21:42.85,0:21:46.74,Internal,,0000,0000,0000,,die zum Auslöser dieser\NKatastrophe werden sollte.
+Dialogue: 0,0:21:53.04,0:21:55.21,Default,,0000,0000,0000,,Das ist also Rimuru Tempest.
+Dialogue: 0,0:21:56.00,0:21:57.60,Default,,0000,0000,0000,,Er ist der, der Frau Shizu …
+Dialogue: 0,0:22:00.55,0:22:01.76,Default,,0000,0000,0000,,Ja, das ist er.
+Dialogue: 0,0:22:03.37,0:22:04.77,Default,,0000,0000,0000,,Das ist der Mann, …
+Dialogue: 0,0:22:06.08,0:22:08.76,Default,,0000,0000,0000,,der Shizu getötet hat.

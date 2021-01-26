@@ -1,0 +1,306 @@
+﻿[Script Info]
+Title: [Erai-raws] Español (España)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Avance,Arial,28,&H000D00D3,&H000000FF,&H00060503,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,8,0020,0020,0100,1
+Style: Gen_Next,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00060503,&H00060503,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0030,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00C7920E,&H000000FF,&H00FFFFFF,&H00303030,-1,0,0,0,100,100,0,0,1,3,0,8,0020,0020,0015,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.56,0:00:10.15,Gen_Main,Hinata,0000,0000,0000,,En el mundo abunda la desesperación.
+Dialogue: 0,0:00:12.70,0:00:16.82,Gen_Main,Shizu,0000,0000,0000,,Cuando sientas que pierdes\Ntu camino, quiero que cuentes conmigo.
+Dialogue: 0,0:00:19.74,0:00:21.28,Gen_Main,Hinata,0000,0000,0000,,Maestra Shizu…
+Dialogue: 0,0:00:22.37,0:00:27.58,Gen_Main,Guy,0000,0000,0000,,Líder de la Guardia Imperial, capitana\NHinata Sakaguchi, caballera sagrada.
+Dialogue: 0,0:00:28.09,0:00:29.51,Gen_Main,Hinata,0000,0000,0000,,¿Qué sucede?
+Dialogue: 0,0:00:29.67,0:00:32.51,Gen_Main,Guy,0000,0000,0000,,El mercader del este\Nha traído un nuevo libro.
+Dialogue: 0,0:00:32.67,0:00:33.67,Gen_Main,Hinata,0000,0000,0000,,Muy bien.
+Dialogue: 0,0:00:38.05,0:00:40.09,Gen_Main,Hinata,0000,0000,0000,,Una nación de monstruos,
+Dialogue: 0,0:00:40.26,0:00:42.46,Gen_Main,Hinata,0000,0000,0000,,la Federación Jura Tempest.
+Dialogue: 0,0:00:43.39,0:00:45.90,Cart_C_Tre,Text,0000,0000,0000,,{\fad(737,1)\fs14\bord3\an5\blur2\t(\fs18)\shad0\3c&H74A5BA&\move(320,220,320,227)\c&H082237&}Federación Jura Tempest
+Dialogue: 0,0:00:43.85,0:00:48.22,Gen_Main,Hinata,0000,0000,0000,,El Gran Bosque de Jura está en el centro\Nde la zona oriental del continente.
+Dialogue: 0,0:00:49.02,0:00:53.10,Gen_Main,Hinata,0000,0000,0000,,Goblins, ogros, orcos,\Nlizardmen y otros.
+Dialogue: 0,0:00:53.28,0:00:56.50,Gen_Main,Hinata,0000,0000,0000,,Muchos monstruos llaman\Nhogar a este bosque
+Dialogue: 0,0:00:56.66,0:00:58.53,Gen_Main,Hinata,0000,0000,0000,,donde nació una nueva nación.
+Dialogue: 0,0:00:59.83,0:01:02.91,Gen_Main,Hinata,0000,0000,0000,,Una nación de monstruos: Tempest.
+Dialogue: 0,0:01:04.08,0:01:06.96,Gen_Main,Hinata,0000,0000,0000,,La ciudad está limpia\Ny ofrece una vida cómoda.
+Dialogue: 0,0:01:09.29,0:01:13.30,Gen_Main,Hinata,0000,0000,0000,,Sus residentes aprenden a leer,\Nescribir, aritmética y otras materias,
+Dialogue: 0,0:01:13.46,0:01:19.26,Gen_Main,Hinata,0000,0000,0000,,creando armas, armaduras, seda\Ny otros productos con gran destreza.
+Dialogue: 0,0:01:19.39,0:01:21.26,Cart_C_Tre,Text,0000,0000,0000,,{\fad(731,1)\fs12\b1\bord3\shad0\blur2\an5\3c&H678FB3&\t(\fs14)\c&H082237&}Nación Armada de Dwargon
+Dialogue: 0,0:01:21.43,0:01:24.48,Gen_Main,Hinata,0000,0000,0000,,La Nación Armada de Dwargon,\Nun país de enanos,
+Dialogue: 0,0:01:24.64,0:01:26.60,Gen_Main,Hinata,0000,0000,0000,,gobernado por Gazel Dwargo,
+Dialogue: 0,0:01:28.19,0:01:29.98,Cart_B_Tre,Text,0000,0000,0000,,{\fad(690,1)\shad0\fs12\b1\bord2\an5\3c&H74B3C3&\t(\fs15)\move(320,230,320,227)\c&H082237&}Reino de Blumund
+Dialogue: 0,0:01:28.77,0:01:30.98,Gen_Main,Hinata,0000,0000,0000,,y el reino de Blumund, humano,
+Dialogue: 0,0:01:31.15,0:01:33.15,Gen_Main,Hinata,0000,0000,0000,,establecieron vínculos con él.
+Dialogue: 0,0:01:34.61,0:01:38.73,Gen_Main,Hinata,0000,0000,0000,,Tiene tratados comerciales\Ny una economía estable.
+Dialogue: 0,0:01:39.37,0:01:41.80,Gen_Main,Hinata,0000,0000,0000,,Su influencia aumenta sin descanso.
+Dialogue: 0,0:01:43.24,0:01:48.14,Gen_Main,Hinata,0000,0000,0000,,Y quien gobierna esta nación de\Nmonstruos, la Federación Jura Tempest…
+Dialogue: 0,0:01:50.54,0:01:54.91,Gen_Main,Hinata,0000,0000,0000,,se llama Rimuru Tempest.
+Dialogue: 0,0:01:57.88,0:01:58.99,Gen_Main,Hinata,0000,0000,0000,,Rimuru…
+Dialogue: 0,0:03:28.31,0:03:30.98,Cart_A_Ari,Title,0000,0000,0000,,That {\c&H471e13&}Time {\c&Hcd9612&}I Got {\c&H471e13&}Reincarnated {\c&Hcd9612&}as a {\c&H7e4f0a&}Slime
+Dialogue: 0,0:03:31.48,0:03:33.52,Gen_Italics,Rimuru,0000,0000,0000,,Soy Rimuru Tempest.
+Dialogue: 0,0:03:31.48,0:03:35.23,Cart_A_Tim,Title,0000,0000,0000,,{\fad(1441,1)\bord1\fs20\an9\pos(599,17)}Digresión: Hinata Sakaguchi
+Dialogue: 0,0:03:33.69,0:03:36.15,Gen_Italics,Rimuru,0000,0000,0000,,Como puedes ver, soy un slime.
+Dialogue: 0,0:03:36.73,0:03:39.83,Gen_Italics,Rimuru,0000,0000,0000,,Pero solía ser humano.
+Dialogue: 0,0:03:44.78,0:03:46.49,Gen_Main,Mikami,0000,0000,0000,,Cuánta paz…
+Dialogue: 0,0:03:47.12,0:03:49.08,Gen_Italics,Rimuru,0000,0000,0000,,Ese es mi antiguo yo.
+Dialogue: 0,0:03:49.25,0:03:52.06,Gen_Italics,Rimuru,0000,0000,0000,,Satoru Mikami, de 37 años
+Dialogue: 0,0:03:52.21,0:03:53.02,Gen_Italics,Rimuru,0000,0000,0000,,y virg…
+Dialogue: 0,0:03:55.17,0:03:58.84,Gen_Italics,Rimuru,0000,0000,0000,,Era bastante guapete,\Nsi se me permite decirlo.
+Dialogue: 0,0:03:59.00,0:04:01.92,Gen_Italics,Rimuru,0000,0000,0000,,Sí, creo que sí. ¿No crees?
+Dialogue: 0,0:04:02.09,0:04:03.34,Gen_Italics,Rimuru,0000,0000,0000,,Lo crees, ¿verdad?
+Dialogue: 0,0:04:04.76,0:04:09.99,Gen_Italics,Rimuru,0000,0000,0000,,Era un empleado bastante capaz\Nen una gran consultora.
+Dialogue: 0,0:04:10.39,0:04:11.50,Gen_Italics,Rimuru,0000,0000,0000,,Pero…
+Dialogue: 0,0:04:19.07,0:04:19.82,Gen_Main,Mikami,0000,0000,0000,,¡Tamura!
+Dialogue: 0,0:04:38.54,0:04:40.06,Gen_Main,Tamura,0000,0000,0000,,¡Mikami!
+Dialogue: 0,0:04:42.67,0:04:44.51,Gen_Italics,Rimuru,0000,0000,0000,,Me apuñalaron sin previo aviso…
+Dialogue: 0,0:04:46.34,0:04:47.60,Gen_Italics,Rimuru,0000,0000,0000,,y palmé.
+Dialogue: 0,0:04:51.56,0:04:52.97,Gen_Italics,Rimuru,0000,0000,0000,,Y entonces…
+Dialogue: 0,0:04:53.56,0:04:57.74,Gen_Italics,Rimuru,0000,0000,0000,,Sin saber por qué, me reencarné\Nen otro mundo como un slime.
+Dialogue: 0,0:04:57.90,0:04:59.36,Gen_Italics,Rimuru,0000,0000,0000,,Y eso fue lo que pasó.
+Dialogue: 0,0:05:06.50,0:05:09.07,Gen_Main,Veldora,0000,0000,0000,,Soy el Dragón de la Tormenta, Verudora.
+Dialogue: 0,0:05:09.24,0:05:10.66,Gen_Main,Rimuru,0000,0000,0000,,¿Dragón de la Tormenta?
+Dialogue: 0,0:05:10.83,0:05:15.02,Gen_Main,Veldora,0000,0000,0000,,Soy uno de cuatro Dragones Reales\Nque hay en el mundo.
+Dialogue: 0,0:05:22.71,0:05:25.93,Gen_Italics,Rimuru,0000,0000,0000,,Verudora fue mi primer amigo\Nen este mundo.
+Dialogue: 0,0:05:28.93,0:05:31.21,Gen_Main,Head,0000,0000,0000,,¡Por favor, concédanos su protección!{2}
+Dialogue: 0,0:05:31.39,0:05:35.26,Gen_Main,Head,0000,0000,0000,,¡Si lo hace,\Nle juraremos nuestra lealtad!
+Dialogue: 0,0:05:35.43,0:05:36.44,Gen_Main,Leader,0000,0000,0000,,¡Lo juramos!
+Dialogue: 0,0:05:36.60,0:05:41.13,Gen_Main,Rimuru,0000,0000,0000,,En lugar del Dragón\Nde la Tormenta Verudora,
+Dialogue: 0,0:05:41.27,0:05:43.94,Gen_Main,Rimuru,0000,0000,0000,,yo, Rimuru Tempest,\Ncumpliré vuestro deseo.
+Dialogue: 0,0:05:44.36,0:05:48.36,Gen_Italics,Rimuru,0000,0000,0000,,En un giro de los acontecimientos,\Nme volví protector de los goblins.
+Dialogue: 0,0:05:48.53,0:05:51.37,Gen_Main,Wolves,0000,0000,0000,,Nuestra manada se rinde ante usted.{3}
+Dialogue: 0,0:05:51.78,0:05:55.82,Gen_Italics,Rimuru,0000,0000,0000,,Y acabé convirtiéndome en líder\Nde una manada de Lobos Terribles.
+Dialogue: 0,0:05:56.46,0:05:59.30,Gen_Main,Benimaru,0000,0000,0000,,Por favor, acepte nuestra lealtad.{14}
+Dialogue: 0,0:05:59.46,0:06:02.71,Gen_Main,Benimaru,0000,0000,0000,,Seguiremos sirviéndole.
+Dialogue: 0,0:06:03.96,0:06:05.26,Gen_Main,Rimuru,0000,0000,0000,,¿Estáis seguros?
+Dialogue: 0,0:06:05.80,0:06:07.72,Gen_Main,Hakurou,0000,0000,0000,,No me opongo.
+Dialogue: 0,0:06:08.34,0:06:11.55,Gen_Main,Souei,0000,0000,0000,,Somos afortunados de haberlo encontrado.
+Dialogue: 0,0:06:13.85,0:06:17.07,Gen_Main,Shion,0000,0000,0000,,Soy su secretaria y guardaespaldas.
+Dialogue: 0,0:06:17.23,0:06:19.19,Gen_Main,Shion,0000,0000,0000,,No me apartaré de su lado.
+Dialogue: 0,0:06:19.35,0:06:22.04,Gen_Main,Benimaru,0000,0000,0000,,No hasta el fin de nuestras vidas.
+Dialogue: 0,0:06:22.19,0:06:24.44,Gen_Main,Rimuru,0000,0000,0000,,Sí…
+Dialogue: 0,0:06:25.03,0:06:27.08,Gen_Italics,Rimuru,0000,0000,0000,,Y cuando quise darme cuenta,
+Dialogue: 0,0:06:27.24,0:06:32.83,Gen_Italics,Rimuru,0000,0000,0000,,me veneraban como líder de los ogros,\Nlos orcos y todo tipo de razas.
+Dialogue: 0,0:06:33.91,0:06:37.43,Gen_Main,Rigurd,0000,0000,0000,,¡Entonces, nuestra nación\Nserá la Federación Jura Tempest{15}
+Dialogue: 0,0:06:37.58,0:06:40.25,Gen_Main,Rigurd,0000,0000,0000,,y esta ciudad se llamará Rimuru!
+Dialogue: 0,0:06:40.42,0:06:41.50,Gen_Main,Rimuru,0000,0000,0000,,¡¿Eh?!
+Dialogue: 0,0:06:41.67,0:06:43.62,Gen_Main,Rigurd,0000,0000,0000,,¡La Ciudad Central Rimuru!
+Dialogue: 0,0:06:43.79,0:06:45.56,Gen_Main,Rimuru,0000,0000,0000,,Espera, eso es muy vergonzo…
+Dialogue: 0,0:06:45.71,0:06:47.08,Gen_Main,Shion,0000,0000,0000,,¡Ciudad Central Rimuru!
+Dialogue: 0,0:06:47.26,0:06:48.73,Gen_Main,Shion,0000,0000,0000,,¡No puede haber mejor nombre!
+Dialogue: 0,0:06:48.88,0:06:52.05,Gen_Main,Benimaru,0000,0000,0000,,Sí. Es un nombre perfecto\Npara nuestra ciudad.
+Dialogue: 0,0:06:52.89,0:06:55.20,Gen_Italics,Rimuru,0000,0000,0000,,Como me convertí\Nen líder de esta nación,
+Dialogue: 0,0:06:55.35,0:06:57.11,Gen_Italics,Rimuru,0000,0000,0000,,decidí proteger a mis aliados
+Dialogue: 0,0:06:57.27,0:07:03.15,Gen_Italics,Rimuru,0000,0000,0000,,y convertir Tempest en una ciudad\Npróspera, segura y cómoda.
+Dialogue: 0,0:07:03.61,0:07:05.51,Gen_Italics,Rimuru,0000,0000,0000,,Y entonces, sin saber cómo…
+Dialogue: 0,0:07:07.11,0:07:10.41,Gen_Italics,Rimuru,0000,0000,0000,,Acabé convertido en maestro.
+Dialogue: 0,0:07:11.36,0:07:14.28,Gen_Italics,Rimuru,0000,0000,0000,,Este es el reino de Ingrassia.
+Dialogue: 0,0:07:11.41,0:07:14.28,Cart_C_Tre,Text,0000,0000,0000,,{\fad(690,1)\b1\fs12\shad0\bord2\an5\blur1\3c&H74B3C3&\t(\fs15)\move(320,190,320,200)\c&H082237&}Reino de Ingrassia
+Dialogue: 0,0:07:14.74,0:07:18.20,Gen_Italics,Rimuru,0000,0000,0000,,Es el mayor núcleo cultural\Nde la zona occidental del continente,
+Dialogue: 0,0:07:18.37,0:07:20.92,Gen_Italics,Rimuru,0000,0000,0000,,además de una enorme y activa nación.
+Dialogue: 0,0:07:23.88,0:07:27.99,Gen_Italics,Rimuru,0000,0000,0000,,Allí fue donde la Unión Libre, una\Norganización de ayuda entre aventureros,
+Dialogue: 0,0:07:28.17,0:07:32.87,Gen_Italics,Rimuru,0000,0000,0000,,estableció la Academia Libertad\Npara educar y enseñar a sus miembros.
+Dialogue: 0,0:07:33.05,0:07:34.66,Gen_Italics,Rimuru,0000,0000,0000,,Y allí fue…
+Dialogue: 0,0:07:35.05,0:07:38.47,Gen_Italics,Rimuru,0000,0000,0000,,donde me hicieron maestro\Nde una clase de niños problemáticos.
+Dialogue: 0,0:07:39.06,0:07:43.81,Gen_Italics,Rimuru,0000,0000,0000,,Los cinco eran el único arrepentimiento\Nque dejó Shizu.
+Dialogue: 0,0:07:45.06,0:07:50.15,Gen_Italics,Rimuru,0000,0000,0000,,Shizu llegó a este mundo\Ndesde Japón, como yo.
+Dialogue: 0,0:07:59.08,0:08:01.71,Gen_Italics,Rimuru,0000,0000,0000,,Me reencarné aquí tras morir en Japón,
+Dialogue: 0,0:08:01.87,0:08:05.46,Gen_Italics,Rimuru,0000,0000,0000,,pero Shizu era una Invocada,\Nes decir, que la invocó hasta aquí…
+Dialogue: 0,0:08:17.47,0:08:20.46,Gen_Italics,Rimuru,0000,0000,0000,,el Rey Demonio Leon Cromwell.
+Dialogue: 0,0:08:21.18,0:08:25.84,Gen_Main,Leon,0000,0000,0000,,Pensé que era inútil,\Npero parece tener afinidad al fuego.{6}
+Dialogue: 0,0:08:31.32,0:08:34.94,Gen_Main,Leon,0000,0000,0000,,Ifrit, te ofrezco su cuerpo.
+Dialogue: 0,0:08:36.16,0:08:37.50,Gen_Main,Leon,0000,0000,0000,,Úsalo bien.
+Dialogue: 0,0:08:51.46,0:08:53.78,Gen_Italics,Rimuru,0000,0000,0000,,Un Invocado, como el nombre sugiere,
+Dialogue: 0,0:08:53.92,0:08:56.72,Gen_Italics,Rimuru,0000,0000,0000,,es alguien que ha sido\Ninvocado a este mundo.
+Dialogue: 0,0:08:56.89,0:08:58.35,Gen_Main,Rimuru,0000,0000,0000,,¿Invocado?{|}
+Dialogue: 0,0:08:58.51,0:09:00.72,Gen_Main,Rimuru,0000,0000,0000,,¿En qué se difencia de un viajero?
+Dialogue: 0,0:09:00.89,0:09:05.02,Gen_Main,Veldora,0000,0000,0000,,Se necesitan más de 30 magos\Ny un ritual de varios días
+Dialogue: 0,0:09:05.16,0:09:06.98,Gen_Main,Veldora,0000,0000,0000,,para traer a alguien de otro mundo.
+Dialogue: 0,0:09:07.15,0:09:10.64,Gen_Main,Veldora,0000,0000,0000,,También se espera\Nque sean armas poderosas.
+Dialogue: 0,0:09:10.82,0:09:11.75,Gen_Main,Rimuru,0000,0000,0000,,¿Armas?
+Dialogue: 0,0:09:11.90,0:09:13.69,Gen_Main,Veldora,0000,0000,0000,,Para el Invocador.
+Dialogue: 0,0:09:13.86,0:09:16.55,Gen_Main,Veldora,0000,0000,0000,,Se usa magia\Npara imponer una maldición a su alma
+Dialogue: 0,0:09:16.70,0:09:19.24,Gen_Main,Veldora,0000,0000,0000,,y asegurar que el Invocado\Nno desafíe al Invocador.
+Dialogue: 0,0:09:19.41,0:09:22.24,Gen_Main,Rimuru,0000,0000,0000,,¿Qué? Eso es muy cruel.
+Dialogue: 0,0:09:22.41,0:09:24.05,Gen_Main,Veldora,0000,0000,0000,,¿Cruel?
+Dialogue: 0,0:09:24.20,0:09:26.82,Gen_Main,Veldora,0000,0000,0000,,No sé cómo era tu mundo,
+Dialogue: 0,0:09:27.00,0:09:31.25,Gen_Main,Veldora,0000,0000,0000,,pero aquí solo sobrevive el más fuerte.
+Dialogue: 0,0:09:31.42,0:09:32.70,Gen_Main,Rimuru,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:09:34.67,0:09:38.36,Gen_Italics,Rimuru,0000,0000,0000,,Shizu servía al Rey Demonio Leon.
+Dialogue: 0,0:09:39.14,0:09:44.43,Gen_Italics,Rimuru,0000,0000,0000,,Si era debido a una maldición\No a Ifrit, el espíritu del fuego,
+Dialogue: 0,0:09:44.60,0:09:47.24,Gen_Italics,Rimuru,0000,0000,0000,,era algo que ni la propia Shizu sabía.
+Dialogue: 0,0:09:49.73,0:09:51.72,Gen_Italics,Rimuru,0000,0000,0000,,Pasaron varios años.
+Dialogue: 0,0:09:51.90,0:09:53.94,Gen_Italics,Rimuru,0000,0000,0000,,Tras una intensa batalla,
+Dialogue: 0,0:09:54.61,0:09:57.82,Gen_Italics,Rimuru,0000,0000,0000,,el Rey Demonio abandonó\Nsu castillo y desapareció
+Dialogue: 0,0:09:58.70,0:10:00.82,Gen_Italics,Rimuru,0000,0000,0000,,dejando atrás a Shizu.
+Dialogue: 0,0:10:06.46,0:10:07.71,Gen_Main,Shizu,0000,0000,0000,,No puedo vencerla.
+Dialogue: 0,0:10:11.59,0:10:14.98,Gen_Italics,Rimuru,0000,0000,0000,,El héroe acogió a Shizu.
+Dialogue: 0,0:10:15.51,0:10:18.47,Gen_Italics,Rimuru,0000,0000,0000,,Ella viajó con el héroe durante años,
+Dialogue: 0,0:10:18.63,0:10:20.60,Gen_Italics,Rimuru,0000,0000,0000,,e incluso después de separarse,
+Dialogue: 0,0:10:21.26,0:10:25.93,Gen_Italics,Rimuru,0000,0000,0000,,recorrió el mundo como aventurera\Npara ayudar a quienes sufrían.
+Dialogue: 0,0:10:26.64,0:10:30.10,Gen_Italics,Rimuru,0000,0000,0000,,Con el tiempo, se convirtió en Campeona.
+Dialogue: 0,0:10:30.85,0:10:34.98,Gen_Italics,Rimuru,0000,0000,0000,,Pero al hacerse mayor,\Nsu magia se debilitaba
+Dialogue: 0,0:10:35.15,0:10:38.16,Gen_Italics,Rimuru,0000,0000,0000,,y comenzó a perder el control de Ifrit.
+Dialogue: 0,0:10:38.74,0:10:42.63,Gen_Italics,Rimuru,0000,0000,0000,,No quería arriesgarse a herir\Na quienes le importaban.
+Dialogue: 0,0:10:42.78,0:10:46.92,Gen_Italics,Rimuru,0000,0000,0000,,Dejó de ser aventurera y se convirtió\Nen maestra en la Academia Libertad.
+Dialogue: 0,0:10:48.00,0:10:54.42,Gen_Italics,Rimuru,0000,0000,0000,,Yuuki Kagurazaka era su estudiante,\Nquien luego sería el maestro del gremio.
+Dialogue: 0,0:10:54.92,0:10:58.42,Gen_Italics,Rimuru,0000,0000,0000,,Descubrí que otro estudiante\Nabandonó a Shizu,
+Dialogue: 0,0:10:59.05,0:11:01.58,Gen_Italics,Rimuru,0000,0000,0000,,pero su última clase de estudiantes…
+Dialogue: 0,0:11:01.76,0:11:04.30,Gen_Italics,Rimuru,0000,0000,0000,,Sí, Misaki Kenya,
+Dialogue: 0,0:11:04.47,0:11:06.36,Gen_Italics,Rimuru,0000,0000,0000,,Ryota Sekiguchi,
+Dialogue: 0,0:11:06.52,0:11:07.97,Gen_Italics,Rimuru,0000,0000,0000,,Gale Gibson,
+Dialogue: 0,0:11:08.14,0:11:09.59,Gen_Italics,Rimuru,0000,0000,0000,,Alice Rondo,
+Dialogue: 0,0:11:09.77,0:11:11.98,Gen_Italics,Rimuru,0000,0000,0000,,y Chloe Aubert…
+Dialogue: 0,0:11:13.23,0:11:17.02,Gen_Italics,Rimuru,0000,0000,0000,,eran todos Invocados\Ndel mundo del que yo vine.
+Dialogue: 0,0:11:17.98,0:11:20.24,Gen_Main,Kenya,0000,0000,0000,,¿Qué haremos hoy, maestra?
+Dialogue: 0,0:11:20.40,0:11:23.87,Gen_Main,Shizu,0000,0000,0000,,Buena pregunta. ¿Qué podemos hacer hoy?
+Dialogue: 0,0:11:24.70,0:11:25.75,Gen_Italics,Rimuru,0000,0000,0000,,Pero entonces,
+Dialogue: 0,0:11:26.20,0:11:30.96,Gen_Italics,Rimuru,0000,0000,0000,,Shizu sintió que no le quedaba\Nmucho tiempo de vida…
+Dialogue: 0,0:11:32.62,0:11:34.38,Gen_Italics,Rimuru,0000,0000,0000,,y partió en su último viaje.
+Dialogue: 0,0:11:35.71,0:11:38.88,Gen_Main,Rimuru,0000,0000,0000,,¿Te gusta nuestra aldea?
+Dialogue: 0,0:11:42.05,0:11:44.39,Gen_Main,Shizu,0000,0000,0000,,Sí, mucho.{7}
+Dialogue: 0,0:11:45.47,0:11:49.27,Gen_Main,Rimuru,0000,0000,0000,,Puedes venir de visita cuando quieras.
+Dialogue: 0,0:11:49.43,0:11:53.15,Gen_Main,Shizu,0000,0000,0000,,Gracias… pero tengo que irme.
+Dialogue: 0,0:11:53.31,0:11:54.42,Gen_Main,Rimuru,0000,0000,0000,,¿Sí?
+Dialogue: 0,0:11:55.15,0:11:58.53,Gen_Main,Shizu,0000,0000,0000,,Si me quedase, podría daros problemas.
+Dialogue: 0,0:12:02.11,0:12:04.57,Gen_Main,Shizu,0000,0000,0000,,El objetivo de mi viaje es…
+Dialogue: 0,0:12:04.74,0:12:06.06,Gen_Main,Rimuru,0000,0000,0000,,¿Objetivo?
+Dialogue: 0,0:12:07.45,0:12:10.56,Gen_Main,Shizu,0000,0000,0000,,…es encontrar al que me invocó.
+Dialogue: 0,0:12:12.12,0:12:14.04,Gen_Main,Rimuru,0000,0000,0000,,¿Qué harás cuando lo encuentres?
+Dialogue: 0,0:12:16.71,0:12:20.94,Gen_Italics,Rimuru,0000,0000,0000,,Quería ver nuevamente\Nal Rey Demonio Leon Cromwell.
+Dialogue: 0,0:12:21.80,0:12:25.10,Gen_Italics,Rimuru,0000,0000,0000,,Pero no pudo cumplir ese objetivo.
+Dialogue: 0,0:12:30.47,0:12:32.90,Gen_Main,Rimuru,0000,0000,0000,,¡Tomad! ¡Icicle Shotgun!{7}
+Dialogue: 0,0:12:36.90,0:12:39.42,Gen_Italics,Rimuru,0000,0000,0000,,No pudo contener más a Ifrit,
+Dialogue: 0,0:12:39.57,0:12:40.77,Gen_Italics,Rimuru,0000,0000,0000,,y entonces…
+Dialogue: 0,0:12:51.50,0:12:55.84,Gen_Main,Shizu,0000,0000,0000,,Oye, Slime, ¿cómo te llamas?
+Dialogue: 0,0:12:56.00,0:12:58.43,Gen_Main,Rimuru,0000,0000,0000,,Te lo dije, soy Rimuru.
+Dialogue: 0,0:12:59.13,0:13:01.59,Gen_Main,Shizu,0000,0000,0000,,Tu verdadero nombre.
+Dialogue: 0,0:13:01.96,0:13:02.91,Gen_Main,Rimuru,0000,0000,0000,,Ah…
+Dialogue: 0,0:13:03.80,0:13:07.09,Gen_Main,Rimuru,0000,0000,0000,,Soy Satoru. Satoru Mikami.
+Dialogue: 0,0:13:07.89,0:13:12.05,Gen_Main,Shizu,0000,0000,0000,,Yo soy Shizue. Shizue Izawa.
+Dialogue: 0,0:13:16.39,0:13:19.45,Gen_Main,Rimuru,0000,0000,0000,,Shizue, deberías dormir.
+Dialogue: 0,0:13:20.19,0:13:24.39,Gen_Main,Shizu,0000,0000,0000,,Satoru, hazme un favor.
+Dialogue: 0,0:13:24.57,0:13:25.74,Gen_Main,Shizu,0000,0000,0000,,¿Está bien?
+Dialogue: 0,0:13:26.40,0:13:28.75,Gen_Main,Rimuru,0000,0000,0000,,Claro, pídeme lo que quieras.
+Dialogue: 0,0:13:32.24,0:13:33.53,Gen_Main,Shizu,0000,0000,0000,,Por favor,
+Dialogue: 0,0:13:35.04,0:13:35.83,Gen_Main,Shizu,0000,0000,0000,,cómeme.
+Dialogue: 0,0:13:38.58,0:13:44.91,Gen_Main,Shizu,0000,0000,0000,,Como te comiste la maldición que tenía.
+Dialogue: 0,0:13:46.59,0:13:47.96,Gen_Main,Shizu,0000,0000,0000,,Eso me hizo feliz.
+Dialogue: 0,0:13:51.51,0:13:54.86,Gen_Main,Shizu,0000,0000,0000,,No me gusta este mundo.
+Dialogue: 0,0:13:56.27,0:13:58.77,Gen_Main,Shizu,0000,0000,0000,,Pero no puedo odiarlo.
+Dialogue: 0,0:14:00.23,0:14:02.85,Gen_Main,Shizu,0000,0000,0000,,Como a ese hombre.
+Dialogue: 0,0:14:03.69,0:14:06.10,Gen_Main,Shizu,0000,0000,0000,,Por eso…
+Dialogue: 0,0:14:07.70,0:14:10.89,Gen_Main,Shizu,0000,0000,0000,,no quiero que este mundo me absorba.
+Dialogue: 0,0:14:12.87,0:14:15.37,Gen_Main,Shizu,0000,0000,0000,,Es mi última petición.
+Dialogue: 0,0:14:18.58,0:14:24.40,Gen_Main,Shizu,0000,0000,0000,,¿Puedes dejarme descansar dentro de ti?
+Dialogue: 0,0:14:31.22,0:14:32.14,Gen_Main,Rimuru,0000,0000,0000,,De acuerdo.
+Dialogue: 0,0:14:37.56,0:14:43.20,Gen_Main,Rimuru,0000,0000,0000,,Te juro en nombre de Satoru Mikami…\Nno, Rimuru Tempest,
+Dialogue: 0,0:14:43.36,0:14:47.32,Gen_Main,Rimuru,0000,0000,0000,,que haré que el Rey Demonio\NLeon Cromwell escuche tus deseos.
+Dialogue: 0,0:14:48.11,0:14:49.71,Gen_Main,Shizu,0000,0000,0000,,Gracias.
+Dialogue: 0,0:15:00.54,0:15:04.54,Gen_Main,Rimuru,0000,0000,0000,,Shizu, a quien me unía el destino…
+Dialogue: 0,0:15:04.71,0:15:08.09,Gen_Main,Rimuru,0000,0000,0000,,Descansa en paz dentro de mí.
+Dialogue: 0,0:15:08.09,0:15:12.30,Cart_A_Tim,Text,0000,0000,0000,,{\fad(1319,1)\bord0\shad0\b0\pos(320,80)}¿Usar Habilidad Única Depredador?{\b1\b0}
+Dialogue: 0,0:15:08.26,0:15:11.34,Gen_Italics,Great Sage,0000,0000,0000,,¿Usar Habilidad Única Depredador?
+Dialogue: 0,0:15:12.93,0:15:13.94,Gen_Main,Rimuru,0000,0000,0000,,Sí.
+Dialogue: 0,0:15:14.97,0:15:19.60,Gen_Main,Rimuru,0000,0000,0000,,Para que pueda tener sueños felices\Neternamente sin despertar.
+Dialogue: 0,0:15:31.07,0:15:35.11,Gen_Main,Clayman,0000,0000,0000,,¿Pretendes interferir en mis planes,
+Dialogue: 0,0:15:35.28,0:15:39.83,Gen_Main,Clayman,0000,0000,0000,,líder del Gran Bosque de Jura,\NRimuru Tempest?
+Dialogue: 0,0:15:44.63,0:15:46.19,Gen_Main,Clayman,0000,0000,0000,,Orcos.
+Dialogue: 0,0:15:46.71,0:15:52.43,Gen_Main,Clayman,0000,0000,0000,,Mi intención era fortalecer mi ejército\Ncon esos cerdos hambrientos, pero…
+Dialogue: 0,0:16:13.66,0:16:16.13,Gen_Main,Rimuru,0000,0000,0000,,Te reconozco como enemigo.{14}
+Dialogue: 0,0:16:16.70,0:16:19.37,Gen_Main,Rimuru,0000,0000,0000,,Ahora me enfrentaré a ti en serio.
+Dialogue: 0,0:16:20.79,0:16:22.08,Gen_Main,Geld,0000,0000,0000,,¡Ridículo!
+Dialogue: 0,0:16:22.25,0:16:25.20,Gen_Main,Geld,0000,0000,0000,,¿Dices que no ibas en serio?
+Dialogue: 0,0:16:25.38,0:16:28.13,Gen_Main,Geld,0000,0000,0000,,¡No puedes hacer más!
+Dialogue: 0,0:16:29.67,0:16:32.63,Gen_Main,Geld,0000,0000,0000,,¡Acepta que te voy a comer!
+Dialogue: 0,0:16:33.26,0:16:37.33,Gen_Main,Rimuru,0000,0000,0000,,Antes de que me comas,\Nte comeré yo a ti.
+Dialogue: 0,0:16:38.93,0:16:41.42,Gen_Main,Rimuru,0000,0000,0000,,Soy un slime.
+Dialogue: 0,0:16:46.19,0:16:47.65,Gen_Main,Geld,0000,0000,0000,,¡¿Qué coj…?!
+Dialogue: 0,0:16:48.19,0:16:51.58,Gen_Main,Rimuru,0000,0000,0000,,No eres el único que come cosas.
+Dialogue: 0,0:16:53.32,0:16:55.66,Gen_Main,Rimuru,0000,0000,0000,,¿Me comerás tú a mí…
+Dialogue: 0,0:16:59.41,0:17:01.88,Gen_Main,Rimuru,0000,0000,0000,,o yo a ti?
+Dialogue: 0,0:17:02.04,0:17:04.42,Gen_Main,Rimuru,0000,0000,0000,,El que consuma al otro ganará.
+Dialogue: 0,0:17:24.23,0:17:29.50,Gen_Main,Clayman,0000,0000,0000,,Jamás imaginé que interferirías.
+Dialogue: 0,0:17:34.40,0:17:39.60,Gen_Main,Clayman,0000,0000,0000,,Aunque envié al resucitado\NCharybdis tras aquello,
+Dialogue: 0,0:17:40.66,0:17:44.34,Gen_Main,Clayman,0000,0000,0000,,uno de los Reyes Demonio,\NMilim, se unió a ellos.
+Dialogue: 0,0:17:48.58,0:17:51.22,Gen_Main,Milim,0000,0000,0000,,Ya conozco ese truco.{19}
+Dialogue: 0,0:17:51.38,0:17:53.92,Gen_Main,Milim,0000,0000,0000,,Ahora te enseñaré uno mío.
+Dialogue: 0,0:17:59.14,0:18:01.11,Gen_Main,Milim,0000,0000,0000,,Esto…
+Dialogue: 0,0:18:01.26,0:18:04.43,Gen_Main,Milim,0000,0000,0000,,¡significa contenerse!
+Dialogue: 0,0:18:05.85,0:18:09.06,Gen_Main,Milim,0000,0000,0000,,¡Drago Buster!
+Dialogue: 0,0:18:19.20,0:18:21.16,Gen_Main,Clayman,0000,0000,0000,,Bueno, no importa.
+Dialogue: 0,0:18:21.62,0:18:25.37,Gen_Main,Clayman,0000,0000,0000,,Haré uso de Milim muy pronto.
+Dialogue: 0,0:18:26.45,0:18:30.14,Gen_Main,Clayman,0000,0000,0000,,Y en cuanto ese slime,\NRimuru creo que lo llaman…
+Dialogue: 0,0:18:30.29,0:18:32.47,Gen_Main,Clayman,0000,0000,0000,,lo voy a ver desaparecer
+Dialogue: 0,0:18:32.63,0:18:36.30,Gen_Main,Clayman,0000,0000,0000,,junto con su querida nación de Tempest\Ny todos los que le importan.
+Dialogue: 0,0:18:37.67,0:18:41.56,Gen_Main,Clayman,0000,0000,0000,,Últimamente ha demostrado\Nser un estorbo.
+Dialogue: 0,0:18:42.97,0:18:47.89,Gen_Main,Clayman,0000,0000,0000,,Y como ha decidido estorbar\Nal Rey Demonio Clayman,
+Dialogue: 0,0:18:48.06,0:18:50.96,Gen_Main,Clayman,0000,0000,0000,,supongo que está preparado\Npara las consecuencias.
+Dialogue: 0,0:18:57.86,0:18:59.86,Gen_Italics,Rimuru,0000,0000,0000,,El único lamento de Shizu
+Dialogue: 0,0:19:00.03,0:19:04.29,Gen_Italics,Rimuru,0000,0000,0000,,eran los cinco niños que fueron\Ninvocados a este mundo.
+Dialogue: 0,0:19:05.16,0:19:09.31,Gen_Main,Yuuki,0000,0000,0000,,Al invocar,\Nhay veces que invocan a niños.{20}
+Dialogue: 0,0:19:10.04,0:19:12.48,Gen_Main,Yuuki,0000,0000,0000,,Y cuando un niño en fase de crecimiento
+Dialogue: 0,0:19:12.63,0:19:15.79,Gen_Main,Yuuki,0000,0000,0000,,recibe una energía demasiado grande,
+Dialogue: 0,0:19:16.59,0:19:21.95,Gen_Main,Yuuki,0000,0000,0000,,su cuerpo se incinera por la carga\Nque supone toda esa energía.
+Dialogue: 0,0:19:22.55,0:19:25.17,Gen_Main,Yuuki,0000,0000,0000,,Nadie ha descubierto\Ncómo evitar ese destino.
+Dialogue: 0,0:19:25.97,0:19:29.69,Gen_Main,Yuuki,0000,0000,0000,,Casi todos los niños\Nmenores de diez que invocaron
+Dialogue: 0,0:19:29.85,0:19:31.98,Gen_Main,Yuuki,0000,0000,0000,,murieron en menos de cinco años.
+Dialogue: 0,0:19:33.06,0:19:34.58,Gen_Main,Yuuki,0000,0000,0000,,Por favor.
+Dialogue: 0,0:19:34.73,0:19:38.11,Gen_Main,Yuuki,0000,0000,0000,,Si es posible, salva a esos niños.
+Dialogue: 0,0:19:39.74,0:19:41.98,Gen_Main,Rimuru,0000,0000,0000,,Solo haré lo que pueda.
+Dialogue: 0,0:19:42.78,0:19:45.74,Gen_Main,Rimuru,0000,0000,0000,,Como siempre hice, y seguiré haciendo.
+Dialogue: 0,0:19:47.08,0:19:48.77,Gen_Italics,Rimuru,0000,0000,0000,,Eso fue lo que pensé.
+Dialogue: 0,0:19:49.25,0:19:53.03,Gen_Italics,Rimuru,0000,0000,0000,,Shizu fue invocada siendo una niña,
+Dialogue: 0,0:19:53.21,0:19:54.48,Gen_Italics,Rimuru,0000,0000,0000,,pero sobrevivió.
+Dialogue: 0,0:19:54.63,0:19:57.48,Gen_Italics,Rimuru,0000,0000,0000,,¿Fue porque albergar a Ifrit
+Dialogue: 0,0:19:57.63,0:20:00.80,Gen_Italics,Rimuru,0000,0000,0000,,le permitió controlar\Nla energía en su cuerpo?
+Dialogue: 0,0:20:02.09,0:20:05.68,Gen_Italics,Rimuru,0000,0000,0000,,Así que decidí hacer que espíritus\Nhabitaran los niños
+Dialogue: 0,0:20:05.85,0:20:07.81,Gen_Italics,Rimuru,0000,0000,0000,,y fuimos a la Morada de los Espíritus.
+Dialogue: 0,0:20:08.56,0:20:11.00,Gen_Italics,Rimuru,0000,0000,0000,,Queríamos capturar espíritus superiores.
+Dialogue: 0,0:20:11.43,0:20:16.92,Gen_Italics,Rimuru,0000,0000,0000,,En la Morada de los Espíritus nos ayudó\NRamiris, la Reina de los Espíritus.
+Dialogue: 0,0:20:17.98,0:20:18.94,Gen_Main,Rimuru,0000,0000,0000,,Bien.
+Dialogue: 0,0:20:19.53,0:20:24.26,Gen_Main,Rimuru,0000,0000,0000,,Kenya, Ryota, Gale, Alice, Chloe.
+Dialogue: 0,0:20:24.41,0:20:25.25,Gen_Main,Rimuru,0000,0000,0000,,¡Vamos!
+Dialogue: 0,0:20:25.41,0:20:26.38,Gen_Main,Kids,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:20:27.28,0:20:30.85,Gen_Italics,Rimuru,0000,0000,0000,,Shizu, allá donde estés,\N¿estás viendo esto?
+Dialogue: 0,0:20:31.00,0:20:34.73,Gen_Italics,Rimuru,0000,0000,0000,,Me aseguraré de cumplir tu deseo.
+Dialogue: 0,0:20:40.17,0:20:41.59,Gen_Italics,Rimuru,0000,0000,0000,,Y entonces…
+Dialogue: 0,0:20:42.30,0:20:45.09,Gen_Italics,Rimuru,0000,0000,0000,,Ayudé a que cada niño\Nalbergara un espíritu,
+Dialogue: 0,0:20:45.26,0:20:48.28,Gen_Italics,Rimuru,0000,0000,0000,,estabilizando así\Nlas magículas en sus cuerpos.
+Dialogue: 0,0:20:48.81,0:20:54.54,Gen_Italics,Rimuru,0000,0000,0000,,Aunque no sé bien qué era\Nel que decidió habitar a Chloe…
+Dialogue: 0,0:20:54.69,0:20:57.16,Gen_Italics,Rimuru,0000,0000,0000,,Pero saló bien, así que no importa.
+Dialogue: 0,0:20:57.31,0:20:59.58,Gen_Italics,Rimuru,0000,0000,0000,,¡Sí! ¡Bien está lo que bien acaba!
+Dialogue: 0,0:21:10.74,0:21:12.29,Gen_Italics,Rimuru,0000,0000,0000,,Lo he logrado, Shizu.
+Dialogue: 0,0:21:12.79,0:21:14.72,Gen_Italics,Rimuru,0000,0000,0000,,Los niños estarán bien.
+Dialogue: 0,0:21:16.04,0:21:19.93,Gen_Italics,Rimuru,0000,0000,0000,,Así resolví\Nel último arrepentimiento de Shizu.
+Dialogue: 0,0:21:20.09,0:21:21.92,Gen_Italics,Rimuru,0000,0000,0000,,¡Y todos vivieron felices!
+Dialogue: 0,0:21:24.26,0:21:27.42,Gen_Italics,Rimuru,0000,0000,0000,,O eso es lo que pensaba.
+Dialogue: 0,0:21:27.59,0:21:31.76,Gen_Italics,Rimuru,0000,0000,0000,,Pero no sabía\Nque un desastre inimaginable
+Dialogue: 0,0:21:31.93,0:21:37.73,Gen_Italics,Rimuru,0000,0000,0000,,estaba a punto de acaecer sobre\NTempest, mis aliados y sobre mí mismo…
+Dialogue: 0,0:21:38.35,0:21:42.73,Gen_Italics,Rimuru,0000,0000,0000,,y ese desastre nos llegaría
+Dialogue: 0,0:21:42.90,0:21:46.43,Gen_Italics,Rimuru,0000,0000,0000,,de mano de la antigua estudiante\Nde Shizu, Hinata Sakaguchi.
+Dialogue: 0,0:21:53.08,0:21:57.52,Gen_Main,Hinata,0000,0000,0000,,¿Rimuru Tempest y la maestra Shizu?
+Dialogue: 0,0:22:00.54,0:22:01.92,Gen_Main,Hinata,0000,0000,0000,,Comprendo.
+Dialogue: 0,0:22:03.34,0:22:04.81,Gen_Main,Hinata,0000,0000,0000,,Así que tú…
+Dialogue: 0,0:22:06.05,0:22:08.42,Gen_Main,Hinata,0000,0000,0000,,mataste a la maestra Shizu.

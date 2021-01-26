@@ -1,0 +1,404 @@
+﻿[Script Info]
+Title: [Erai-raws] Italiano
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Sign,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0012,1
+Style: Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Main_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00730200,&H00730200,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Main_Overlap,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H002A901E,&H002A901E,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Main_Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,1
+Style: Main_Top_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00730200,&H00730200,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: EpTitle,Times New Roman,21,&H00FFFFFF,&H000000FF,&H011C2825,&H001C2825,0,0,0,0,100,100,0,0,1,1,1,3,0010,0040,0050,1
+Style: TitoloSigla,Arial,24,&H00CA9611,&H000000FF,&H00FEFEFE,&H0047200D,0,0,0,0,100,100,0,0,1,4,0,8,0028,0028,0012,1
+Style: Prossimamente,Times New Roman,24,&H00D3E1E2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0268,1
+Style: TitoloNext,Times New Roman,26,&H00000000,&H000000FF,&H00D8E2E5,&H00000000,0,0,0,0,100,100,0,0,3,1,0,2,0010,0010,0230,1
+Style: sign_23240_263_Avviso_,Times New Roman,33,&H00D6E4E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0259,0264,0295,1
+Style: Tecniche,Times New Roman,30,&H00FDFDFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,0010,0010,0008,1
+Style: PG,Times New Roman,24,&H00FFFFFF,&H000000FF,&H002C2E2E,&H002C2E2E,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0020,1
+Style: sign_5629_346_Gluttony_,Times New Roman,33,&H00D6E4E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0001,0001,0298,1
+Style: sign_5675_347_Fondere_tra_loro,Times New Roman,33,&H00DDE9DE,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0098,0098,0295,1
+Style: sign_6237_349_Alteratore,Times New Roman,33,&H00D6E4E9,&H000000FF,&H0022211B,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0240,0234,0309,1
+Style: sign_6281_350_Spirito_superior,Times New Roman,27,&H00D6E4E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0188,0182,0298,1
+Style: sign_6330_351_Fusione_,Times New Roman,24,&H00D6E4E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0198,0344,0202,1
+Style: sign_6330_352_completata,Times New Roman,24,&H00D6E4E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0325,0187,0202,1
+Style: sign_6378_354_Terra,Times New Roman,38,&H00D6E4E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0301,0231,0263,1
+Style: sign_6378_353_Tipologia,Times New Roman,24,&H00D6E4E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0191,0339,0204,1
+Style: sign_6416_355_Creazione_di_una,Times New Roman,27,&H00DDE9DE,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0010,0010,0295,1
+Style: sign_6537_356_Spirito_superior,Times New Roman,24,&H00DDE9DE,&H000000FF,&H003A1D13,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0095,0363,0097,1
+Style: sign_6548_357_Terra,Times New Roman,34,&H00D6E4E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0128,0404,0253,1
+Style: sign_6561_358_Gail_Gibson,Times New Roman,28,&H00DDE9DE,&H000000FF,&H00111213,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0355,0123,0252,1
+Style: sign_6582_359_Fonderli__,Times New Roman,27,&H00DDE9DE,&H000000FF,&H001A1A15,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0364,0142,0147,1
+Style: sign_6207_348_Avviso,Times New Roman,33,&H00D6E4E9,&H000000FF,&H001A211E,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0266,0266,0295,1
+Style: sign_8367_360__Avviso,Times New Roman,33,&H00D6E4E9,&H000000FF,&H001D1536,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0262,0262,0295,1
+Style: sign_8397_361_Alteratore,Times New Roman,33,&H00D6E4E9,&H000000FF,&H001D1536,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0240,0234,0309,1
+Style: sign_8441_362_Spirito_superior,Times New Roman,27,&H00D6E4E9,&H000000FF,&H001D1536,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0213,0207,0298,1
+Style: sign_8490_363_Fusione,Times New Roman,24,&H00D6E4E9,&H000000FF,&H001D1536,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0204,0346,0201,1
+Style: sign_8490_364_Completata,Times New Roman,24,&H00D6E4E9,&H000000FF,&H001D1536,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0323,0181,0201,1
+Style: sign_8535_365_Tipologia,Times New Roman,24,&H00D6E4E9,&H000000FF,&H001B1036,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0195,0335,0176,1
+Style: sign_8534_366_Vuoto,Times New Roman,38,&H00D6E4E9,&H000000FF,&H001B1036,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0330,0198,0303,1
+Style: sign_11410_367_Avviso,Times New Roman,33,&H00D6E4E9,&H000000FF,&H001A3F0E,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0266,0266,0295,1
+Style: sign_11431_368_Tipologia,Times New Roman,24,&H00D6E4E9,&H000000FF,&H001A3F0E,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0195,0335,0176,1
+Style: sign_11448_370_Vento_,Times New Roman,38,&H00D6E4E9,&H000000FF,&H0016320E,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0423,0097,0258,1
+Style: sign_11448_369_Acqua_,Times New Roman,38,&H00D6E4E9,&H000000FF,&H0016320E,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0090,0420,0258,1
+Style: sign_11479_376_Spirito_superior,Times New Roman,22,&H00DDE9DE,&H000000FF,&H003D5824,&H00000000,0,0,0,0,100,100,0,-90,1,4,0,2,0040,0308,0097,1
+Style: sign_11542_377_Completato,Times New Roman,24,&H00D6E4E9,&H000000FF,&H00163C0D,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0063,0441,0224,1
+Style: sign_11542_378_con_successo,Times New Roman,24,&H00D6E4E9,&H000000FF,&H00163C0D,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0443,0053,0224,1
+Style: sign_3408_22_S_l_i_m_e,Verdana,20,&H00141621,&H000000FF,&H00ABB8CB,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0309,0309,0012,1
+Style: sign_5950_128_Risposta,Times New Roman,33,&H00D6E4E9,&H000000FF,&H000B0909,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,0252,0252,0295,1
+Style: sign_6030_129_Il_polistirene__,Times New Roman,28,&H00D1DBD6,&H000000FF,&H000C0B09,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0001,0001,0003,1
+Style: sign_6099_130_Polimerizzazione,Times New Roman,24,&H00D6E4E9,&H000000FF,&H001A211E,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,0185,0185,0002,1
+Style: sign_17733_276_Limur,Comic Sans MS,24,&H00636365,&H000000FF,&H00F8F9F6,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0001,0001,0012,1
+Style: sign_20188_496_Facile_da_capire,Times New Roman,14,&H0052E4DD,&H000000FF,&H003A2EB5,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0156,0156,0012,1
+Style: sign_20188_497_Manuale_di_sopra,Arial,28,&H003C34C5,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,0,0,8,0127,0127,0012,1
+Style: sign_20188_499_Spiegazioni_esau,Times New Roman,14,&H0052E4DD,&H000000FF,&H003A2EB5,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0088,0088,0012,1
+Style: sign_20188_498_Aggiunta_special,Times New Roman,12,&H005B55B7,&H000000FF,&H00E7FAF1,&H00000000,0,0,0,0,100,100,0,0,1,2,0,4,0010,0492,0000,1
+Style: sign_8947_490_Valore_magico__0,Times New Roman,27,&H00C8E5E0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0001,0001,0166,1
+Style: sign_11212_372_Regno_di_Bulmund,Times New Roman,24,&H00FFFFFF,&H000000FF,&H0024B508,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0195,0198,0321,1
+Style: sign_11046_370_Regno_di_Bulmund,Arial,16,&H000A2543,&H000000FF,&H00447B92,&H00000000,0,0,0,0,120,120,0,0,1,4,0,8,0039,0424,0149,1
+Style: sign_5882_485_Regno_di_Ingraci,Times New Roman,17,&H00000103,&H000000FF,&H007DC2D0,&H00000000,0,0,0,0,100,100,0,0,1,4,0,8,0223,0223,0012,1
+Style: sign_13222_2_Attivazione_poss,Arial,28,&H00EEEEEE,&H000000FF,&H00000000,&H00FDF8F4,0,0,0,0,100,100,0,0,3,2,2,2,0001,0001,0012,1
+Style: sign_13179_1_del_Grande_Limur,Arial,12,&H00392824,&H000000FF,&H00F6F3EF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0498,0038,0344,1
+Style: sign_17319_347_Utilizzare,Times New Roman,24,&H00BAC0BD,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0010,0010,0245,1
+Style: sign_17330_348_l_abilit___unica,Times New Roman,24,&H00BAC0BD,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,0010,0010,0187,1
+Style: sign_1041_12_Federazione_Jura,Arial,16,&H000A2543,&H000000FF,&H0066ADC2,&H00000000,0,0,0,0,120,120,0,0,1,4,0,2,0001,0001,0149,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.60,0:00:07.02,Main,,0000,0000,0000,,Il mondo...
+Dialogue: 0,0:00:08.07,0:00:10.07,Main,,0000,0000,0000,,è pieno di disperazione.
+Dialogue: 0,0:00:12.76,0:00:16.77,Flashback,,0000,0000,0000,,Quando ti sentirai persa, fai affidamento su di me.
+Dialogue: 0,0:00:19.81,0:00:21.19,Main,,0000,0000,0000,,Maestra Shizu...
+Dialogue: 0,0:00:22.37,0:00:25.14,Main,,0000,0000,0000,,Capitano dei cavalieri della guardia imperiale,
+Dialogue: 0,0:00:25.14,0:00:27.45,Main,,0000,0000,0000,,Sacro Cavaliere Hinata Sakaguchi.
+Dialogue: 0,0:00:28.13,0:00:29.55,Main,,0000,0000,0000,,Qualcosa non va?
+Dialogue: 0,0:00:29.55,0:00:32.12,Main,,0000,0000,0000,,Il mercante proveniente da est ha portato il nuovo libro.
+Dialogue: 0,0:00:32.58,0:00:33.65,Main,,0000,0000,0000,,D'accordo.
+Dialogue: 0,0:00:38.24,0:00:39.84,Main,,0000,0000,0000,,Un regno formato da bestie magiche,
+Dialogue: 0,0:00:40.22,0:00:42.54,Main,,0000,0000,0000,,la Federazione Jura Tempest.
+Dialogue: 0,0:00:43.39,0:00:45.90,sign_1041_12_Federazione_Jura,Cartello,0000,0000,0000,,{\t(\fs20)\fad(737,0)\blur4\pos(318,184)}Federazione Jura Tempest
+Dialogue: 0,0:00:43.87,0:00:48.24,Main,,0000,0000,0000,,La grande foresta di Jura si estende\Nal centro della regione orientale del continente.
+Dialogue: 0,0:00:49.23,0:00:51.36,Main,,0000,0000,0000,,Diverse bestie magiche
+Dialogue: 0,0:00:51.72,0:00:56.17,Main,,0000,0000,0000,,tra cui goblin, lupi, orchi e lizardman\Nabitavano in quella foresta,
+Dialogue: 0,0:00:56.59,0:00:58.53,Main,,0000,0000,0000,,quando la nuova nazione è stata costruita all'improvviso.
+Dialogue: 0,0:00:59.81,0:01:01.37,Main,,0000,0000,0000,,Il regno delle bestie magiche,
+Dialogue: 0,0:01:01.91,0:01:02.91,Main,,0000,0000,0000,,Tempest.
+Dialogue: 0,0:01:03.91,0:01:06.50,Main,,0000,0000,0000,,La città è pulita e ben tenuta,\Ne permette una vita confortevole.
+Dialogue: 0,0:01:09.59,0:01:13.30,Main,,0000,0000,0000,,Ai cittadini viene insegnato a leggere, scrivere, \Nfar di conto e molte altre cose.
+Dialogue: 0,0:01:13.30,0:01:15.38,Main,,0000,0000,0000,,Inoltre, posseggono abilità tecniche eccellenti,
+Dialogue: 0,0:01:15.61,0:01:19.26,Main,,0000,0000,0000,,grazie alle quali sono in grado\Ndi creare armi, attrezzi e seta.
+Dialogue: 0,0:01:19.39,0:01:21.26,sign_1041_12_Federazione_Jura,Cartello,0000,0000,0000,,{\3c&H6592AF&\t(\fs15\fs17)\fad(737,0)\blur4\pos(322,190)}Regno militare\Ndi Dwargon
+Dialogue: 0,0:01:21.26,0:01:24.48,Main,,0000,0000,0000,,Il regno militare di Dwargon, abitato da nani
+Dialogue: 0,0:01:24.48,0:01:26.60,Main,,0000,0000,0000,,e governato da Gazehr Dwargo
+Dialogue: 0,0:01:28.15,0:01:29.98,sign_1041_12_Federazione_Jura,Cartello,0000,0000,0000,,{\t(\fs20)\fad(737,0)\blur4\move(319,173,319,163)}Regno di\NBulmund
+Dialogue: 0,0:01:28.73,0:01:29.98,Main,,0000,0000,0000,,e il regno di Bulmund,
+Dialogue: 0,0:01:29.98,0:01:33.12,Main,,0000,0000,0000,,abitato da esseri umani, hanno stretto alleanze con esso.
+Dialogue: 0,0:01:34.55,0:01:35.82,Main,,0000,0000,0000,,Il commercio è fervente
+Dialogue: 0,0:01:36.57,0:01:38.64,Main,,0000,0000,0000,,e c'è stabilità a livello economico.
+Dialogue: 0,0:01:39.62,0:01:41.76,Main,,0000,0000,0000,,La sua forza cresce di giorno in giorno.
+Dialogue: 0,0:01:43.25,0:01:44.72,Main,,0000,0000,0000,,A capo del regno delle bestie magiche,
+Dialogue: 0,0:01:45.18,0:01:48.12,Main,,0000,0000,0000,,la Federazione Jura Tempest,
+Dialogue: 0,0:01:50.54,0:01:51.79,Main,,0000,0000,0000,,vi è colui che risponde al nome
+Dialogue: 0,0:01:52.57,0:01:54.75,Main,,0000,0000,0000,,di Limur Tempest.
+Dialogue: 0,0:01:57.93,0:01:58.91,Main,,0000,0000,0000,,Limur.
+Dialogue: 0,0:03:28.31,0:03:30.98,TitoloSigla,,0000,0000,0000,,That {\c&H47200d&}Time{\c&Hca9611&} I Got {\c&H47200d&\b1}Reincarnated{\c&Hca9611&\b0} as a {\b1\c&H47200D&}S{\c&H7c4a09&}li{\c&H9f6b03&}m{\c&Hca9611&}e{\b0}
+Dialogue: 0,0:03:31.43,0:03:33.40,Main_Top_Italics,,0000,0000,0000,,Io sono Limur Tempest.
+Dialogue: 0,0:03:31.44,0:03:35.27,EpTitle,,0000,0000,0000,,{\fad(1425,525)\pos(598,310)}Digressione: Hinata Sakaguchi
+Dialogue: 0,0:03:33.40,0:03:36.15,Main_Top_Italics,,0000,0000,0000,,Come potete vedere, sono uno slime.
+Dialogue: 0,0:03:36.76,0:03:39.75,Main_Italics,,0000,0000,0000,,Tuttavia, un tempo ero un essere umano.
+Dialogue: 0,0:03:44.77,0:03:46.49,Main,,0000,0000,0000,,Che pace...
+Dialogue: 0,0:03:47.09,0:03:49.08,Main_Italics,,0000,0000,0000,,Questo ero io.
+Dialogue: 0,0:03:49.41,0:03:52.08,Main_Italics,,0000,0000,0000,,Mikami Satoru, 37 anni.
+Dialogue: 0,0:03:52.08,0:03:52.94,Main_Italics,,0000,0000,0000,,Verginel—
+Dialogue: 0,0:03:55.13,0:03:58.84,Main_Italics,,0000,0000,0000,,Beh, forse non dovrei dirmelo da solo, \Nma ero proprio un bell'uomo.
+Dialogue: 0,0:03:59.07,0:04:00.78,Main_Italics,,0000,0000,0000,,Sì, ne sono convinto.
+Dialogue: 0,0:04:00.78,0:04:02.00,Main_Italics,,0000,0000,0000,,Anche tu lo pensi, vero?
+Dialogue: 0,0:04:02.00,0:04:03.34,Main_Italics,,0000,0000,0000,,Dai, lo pensi, no?
+Dialogue: 0,0:04:04.61,0:04:07.33,Main_Italics,,0000,0000,0000,,Lavoravo per una grossa agenzia d'appalti
+Dialogue: 0,0:04:07.33,0:04:09.95,Main_Italics,,0000,0000,0000,,ed ero un discreto impiegato.
+Dialogue: 0,0:04:10.46,0:04:11.41,Main_Italics,,0000,0000,0000,,Tuttavia...
+Dialogue: 0,0:04:14.78,0:04:15.81,Main_Top,,0000,0000,0000,,Che succede?
+Dialogue: 0,0:04:18.90,0:04:19.82,Main,,0000,0000,0000,,Tamura!
+Dialogue: 0,0:04:38.38,0:04:40.07,Main,,0000,0000,0000,,S-Senpai!
+Dialogue: 0,0:04:42.72,0:04:44.70,Main_Italics,,0000,0000,0000,,Un passante mi ha accoltellato...
+Dialogue: 0,0:04:46.28,0:04:47.52,Main_Italics,,0000,0000,0000,,e ucciso.
+Dialogue: 0,0:04:51.39,0:04:52.87,Main_Italics,,0000,0000,0000,,E poi,
+Dialogue: 0,0:04:53.41,0:04:54.89,Main_Italics,,0000,0000,0000,,non so bene perché,
+Dialogue: 0,0:04:55.19,0:04:57.87,Main_Italics,,0000,0000,0000,,sono rinato in un altro mondo sotto forma di slime.
+Dialogue: 0,0:04:57.87,0:04:59.25,Main_Italics,,0000,0000,0000,,Ecco cosa mi è successo.
+Dialogue: 0,0:05:06.49,0:05:09.08,Main,,0000,0000,0000,,Io sono Veldra, il drago delle tempeste.
+Dialogue: 0,0:05:09.08,0:05:10.66,Main,,0000,0000,0000,,Il drago delle tempeste?
+Dialogue: 0,0:05:10.90,0:05:14.97,Main,,0000,0000,0000,,Sono uno dei soli quattro esistenti in questo mondo.
+Dialogue: 0,0:05:22.71,0:05:25.96,Main_Italics,,0000,0000,0000,,Sono diventato amico di Veldra.
+Dialogue: 0,0:05:29.03,0:05:31.27,Main,,0000,0000,0000,,Vi prego, proteggeteci!
+Dialogue: 0,0:05:31.27,0:05:35.31,Main,,0000,0000,0000,,Se lo farete, vi giureremo fedeltà!
+Dialogue: 0,0:05:35.31,0:05:36.44,Main,,0000,0000,0000,,Avete la nostra parola!
+Dialogue: 0,0:05:36.83,0:05:38.65,Main,,0000,0000,0000,,Io, Limur Tempest,
+Dialogue: 0,0:05:38.65,0:05:41.21,Main,,0000,0000,0000,,esaudirò il vostro desiderio in vece di Veldra,
+Dialogue: 0,0:05:41.21,0:05:43.95,Main,,0000,0000,0000,,il drago delle tempeste!
+Dialogue: 0,0:05:44.32,0:05:48.36,Main_Italics,,0000,0000,0000,,E così, in modo del tutto inaspettato,\Nmi sono ritrovato a proteggere dei goblin.
+Dialogue: 0,0:05:48.36,0:05:51.37,Main,,0000,0000,0000,,Tutti noi ti ubbidiremo fedelmente!
+Dialogue: 0,0:05:51.75,0:05:55.84,Main_Italics,,0000,0000,0000,,E sono diventato anche il capo \Ndi un branco di zanne di lupo.
+Dialogue: 0,0:05:56.29,0:05:59.02,Main,,0000,0000,0000,,Vi prego di accettare la nostra fedeltà.
+Dialogue: 0,0:05:59.45,0:06:02.71,Main,,0000,0000,0000,,Noi vogliamo continuare a servirvi, Grande Limur.
+Dialogue: 0,0:06:03.96,0:06:05.26,Main,,0000,0000,0000,,Siete sicuri?
+Dialogue: 0,0:06:05.85,0:06:07.72,Main,,0000,0000,0000,,Non ho obiezioni.
+Dialogue: 0,0:06:08.30,0:06:11.55,Main,,0000,0000,0000,,Avervi incontrato\Nè stata la nostra più grande fortuna.
+Dialogue: 0,0:06:13.97,0:06:17.08,Main,,0000,0000,0000,,Io sono la vostra segretaria \Ne guardia del corpo, Grande Limur!
+Dialogue: 0,0:06:17.08,0:06:19.19,Main,,0000,0000,0000,,Non vi lascerò mai e poi mai!
+Dialogue: 0,0:06:19.53,0:06:22.11,Main,,0000,0000,0000,,Fino alla fine dei nostri giorni!
+Dialogue: 0,0:06:22.11,0:06:24.04,Main,,0000,0000,0000,,O-Ok...
+Dialogue: 0,0:06:24.98,0:06:26.82,Main_Italics,,0000,0000,0000,,Tra una cosa e l'altra,
+Dialogue: 0,0:06:27.10,0:06:32.74,Main_Italics,,0000,0000,0000,,mi sono ritrovato a capo anche di ogre,\Norchi e tante altre bestie magiche.
+Dialogue: 0,0:06:33.74,0:06:34.80,Main,,0000,0000,0000,,Allora...
+Dialogue: 0,0:06:34.80,0:06:37.46,Main,,0000,0000,0000,,il nome del nostro regno \Nsarà Federazione Jura Tempest,
+Dialogue: 0,0:06:37.46,0:06:40.25,Main,,0000,0000,0000,,e questa città si chiamerà Limur!
+Dialogue: 0,0:06:41.50,0:06:43.65,Main,,0000,0000,0000,,La capitale Limur!
+Dialogue: 0,0:06:43.65,0:06:45.63,Main,,0000,0000,0000,,Ehi, ehi, è imbarazzan—
+Dialogue: 0,0:06:45.63,0:06:48.81,Main,,0000,0000,0000,,La capitale Limur! Non può esserci nulla di meglio!
+Dialogue: 0,0:06:48.81,0:06:50.11,Main,,0000,0000,0000,,Hai proprio ragione.
+Dialogue: 0,0:06:50.11,0:06:52.05,Main,,0000,0000,0000,,Un nome perfetto per la nostra città.
+Dialogue: 0,0:06:52.88,0:06:57.17,Main_Italics,,0000,0000,0000,,Da quando sono diventato il leader di questa nazione,\Nho sempre protetto la mia gente
+Dialogue: 0,0:06:57.17,0:07:00.77,Main_Italics,,0000,0000,0000,,determinato a fare tutto il possibile perché Tempest
+Dialogue: 0,0:07:00.77,0:07:03.15,Main_Italics,,0000,0000,0000,,sia un luogo sicuro, prospero e in cui sia piacevole vivere.
+Dialogue: 0,0:07:03.59,0:07:05.50,Main_Italics,,0000,0000,0000,,E in quel periodo...
+Dialogue: 0,0:07:07.15,0:07:10.31,Main_Italics,,0000,0000,0000,,chissà perché, sono diventato anche maestro in una scuola!
+Dialogue: 0,0:07:11.32,0:07:14.28,sign_1041_12_Federazione_Jura,Cartello,0000,0000,0000,,{\t(\fs19)\fad(737,0)\blur4\pos(323,161)}Regno di Ingracia
+Dialogue: 0,0:07:11.38,0:07:14.28,Main_Italics,,0000,0000,0000,,Questo è il Regno di Ingracia.
+Dialogue: 0,0:07:14.66,0:07:18.23,Main_Italics,,0000,0000,0000,,Si trova nella zona occidentale del continente \Ned è un avanzatissimo centro culturale.
+Dialogue: 0,0:07:18.23,0:07:20.84,Main_Italics,,0000,0000,0000,,È un grande regno pieno di vita.
+Dialogue: 0,0:07:23.87,0:07:26.69,Main_Italics,,0000,0000,0000,,È anche sede della gilda della libertà
+Dialogue: 0,0:07:26.69,0:07:28.03,Main_Italics,,0000,0000,0000,,che offre aiuto agli avventurieri.
+Dialogue: 0,0:07:28.03,0:07:32.09,Main_Italics,,0000,0000,0000,,Uno dei suoi membri ha istituito una struttura \Nper l'insegnamento, l'accademia della libertà.
+Dialogue: 0,0:07:33.05,0:07:34.59,Main_Italics,,0000,0000,0000,,E lì, io
+Dialogue: 0,0:07:35.08,0:07:38.47,Main_Italics,,0000,0000,0000,,mi sono preso cura di alcuni bambini \Nin una condizione particolare.
+Dialogue: 0,0:07:39.02,0:07:40.97,Main_Italics,,0000,0000,0000,,Questo perché quei bambini
+Dialogue: 0,0:07:40.97,0:07:43.81,Main_Italics,,0000,0000,0000,,erano il rimpianto di Shizu.
+Dialogue: 0,0:07:45.07,0:07:47.58,Main_Italics,,0000,0000,0000,,Shizu, proprio come me,
+Dialogue: 0,0:07:47.58,0:07:50.07,Main_Italics,,0000,0000,0000,,è giunta in questo mondo dal Giappone.
+Dialogue: 0,0:07:59.01,0:08:01.41,Main_Italics,,0000,0000,0000,,Io sono morto e sono rinato in questo mondo,
+Dialogue: 0,0:08:01.76,0:08:05.46,Main_Italics,,0000,0000,0000,,mentre lei invece è stata evocata qui.
+Dialogue: 0,0:08:17.45,0:08:20.39,Main_Italics,,0000,0000,0000,,A farlo è stato il Re demone Leon Cromwell.
+Dialogue: 0,0:08:21.19,0:08:23.14,Main,,0000,0000,0000,,Pensavo fosse solo spazzatura,
+Dialogue: 0,0:08:23.14,0:08:25.89,Main,,0000,0000,0000,,ma forse ha qualche affinità con il fuoco.
+Dialogue: 0,0:08:31.31,0:08:32.31,Main,,0000,0000,0000,,Ifrit.
+Dialogue: 0,0:08:32.83,0:08:34.96,Main,,0000,0000,0000,,Donerò a te il suo corpo.
+Dialogue: 0,0:08:36.18,0:08:37.43,Main,,0000,0000,0000,,Consumalo completamente.
+Dialogue: 0,0:08:51.50,0:08:52.67,Main_Italics,,0000,0000,0000,,Proprio come dice il nome,
+Dialogue: 0,0:08:52.67,0:08:56.71,Main_Italics,,0000,0000,0000,,le evocazioni sono creature\Nche sono state evocate in questo mondo.
+Dialogue: 0,0:08:56.71,0:08:58.41,Main,,0000,0000,0000,,Evocazione.
+Dialogue: 0,0:08:58.41,0:09:00.72,Main,,0000,0000,0000,,Ed è diverso da una persona\Nche proviene da un altro mondo?
+Dialogue: 0,0:09:00.97,0:09:05.22,Main,,0000,0000,0000,,Più di trenta maghi si erano radunati\Nper un rituale durato giorni e giorni,
+Dialogue: 0,0:09:05.22,0:09:06.98,Main,,0000,0000,0000,,e l'avevano richiamata da un altro mondo.
+Dialogue: 0,0:09:07.28,0:09:10.67,Main,,0000,0000,0000,,Le evocazioni sono considerabili armi molto potenti.
+Dialogue: 0,0:09:10.67,0:09:11.80,Main,,0000,0000,0000,,Armi?
+Dialogue: 0,0:09:11.80,0:09:13.75,Main,,0000,0000,0000,,Quella del suo evocatore.
+Dialogue: 0,0:09:13.75,0:09:16.59,Main,,0000,0000,0000,,Per fare in modo che l'Evocazione \Nnon si ribelli al proprio evocatore,
+Dialogue: 0,0:09:16.59,0:09:19.24,Main,,0000,0000,0000,,la sua anima viene marchiata magicamente \Ncon una maledizione.
+Dialogue: 0,0:09:19.24,0:09:22.24,Main,,0000,0000,0000,,Che storia è questa?! Che cattiveria!
+Dialogue: 0,0:09:22.49,0:09:23.77,Main,,0000,0000,0000,,Cattiveria, eh?
+Dialogue: 0,0:09:24.14,0:09:26.37,Main,,0000,0000,0000,,Non so come le cose funzionassero \Nnel mondo in cui vivevi,
+Dialogue: 0,0:09:26.91,0:09:30.96,Main,,0000,0000,0000,,ma in questo mondo prevale la legge del più forte.
+Dialogue: 0,0:09:31.32,0:09:32.52,Main,,0000,0000,0000,,Capisco.
+Dialogue: 0,0:09:34.65,0:09:38.28,Main_Italics,,0000,0000,0000,,Shizu rimase al servizio del Re demone Leon.
+Dialogue: 0,0:09:38.82,0:09:41.37,Main_Italics,,0000,0000,0000,,Forse per colpa della maledizione
+Dialogue: 0,0:09:41.37,0:09:44.43,Main_Italics,,0000,0000,0000,,o forse dello spirito di fuoco, Ifrit.
+Dialogue: 0,0:09:44.69,0:09:47.14,Main_Italics,,0000,0000,0000,,Nemmeno Shizu lo sapeva.
+Dialogue: 0,0:09:49.56,0:09:51.36,Main_Italics,,0000,0000,0000,,Passarono diversi anni.
+Dialogue: 0,0:09:51.93,0:09:53.94,Main_Italics,,0000,0000,0000,,In seguito a una violenta battaglia,
+Dialogue: 0,0:09:54.61,0:09:57.82,Main_Italics,,0000,0000,0000,,il Re demone lasciò il suo castello, \Nfacendo perdere le sue tracce
+Dialogue: 0,0:09:58.69,0:10:00.47,Main_Italics,,0000,0000,0000,,e abbandonando Shizu.
+Dialogue: 0,0:10:06.50,0:10:07.58,Main_Italics,,0000,0000,0000,,Non potrò mai batterla...
+Dialogue: 0,0:10:11.55,0:10:14.93,Main_Italics,,0000,0000,0000,,Shizu venne presa sotto l'ala protettiva dell'Eroina
+Dialogue: 0,0:10:15.52,0:10:17.97,Main_Italics,,0000,0000,0000,,e viaggiò per diversi anni insieme a quest'ultima.
+Dialogue: 0,0:10:18.47,0:10:20.14,Main_Italics,,0000,0000,0000,,Dopo essersi separata da lei
+Dialogue: 0,0:10:21.22,0:10:25.43,Main_Italics,,0000,0000,0000,,fece l'avventuriera per il mondo \Ncercando di aiutare chiunque si trovasse in difficoltà.
+Dialogue: 0,0:10:26.63,0:10:30.02,Main_Italics,,0000,0000,0000,,Finché un giorno cominciarono a chiamarla Eroina.
+Dialogue: 0,0:10:30.81,0:10:35.06,Main_Italics,,0000,0000,0000,,Ma con il passare degli anni, \Nil suo potere magico iniziò a diminuire,
+Dialogue: 0,0:10:35.06,0:10:38.18,Main_Italics,,0000,0000,0000,,e diventò sempre più difficile per lei controllare Ifrit.
+Dialogue: 0,0:10:38.99,0:10:42.74,Main_Italics,,0000,0000,0000,,Per paura che prima o poi \Navrebbe ferito qualcuno a cui teneva
+Dialogue: 0,0:10:42.74,0:10:46.82,Main_Italics,,0000,0000,0000,,smise di fare l'avventuriera e cominciò \Nad insegnare all'accademia della libertà.
+Dialogue: 0,0:10:48.07,0:10:49.50,Main_Italics,,0000,0000,0000,,Tra i suoi studenti
+Dialogue: 0,0:10:49.50,0:10:52.53,Main_Italics,,0000,0000,0000,,vi è colui che ora è il Gran Maestro \Ndella gilda degli avventurieri,
+Dialogue: 0,0:10:52.53,0:10:54.42,Main_Italics,,0000,0000,0000,,Yuuki Kagurazaka,
+Dialogue: 0,0:10:54.91,0:10:58.37,Main_Italics,,0000,0000,0000,,e anche una certa persona \Nche decise di allontanarsi da Shizu.
+Dialogue: 0,0:10:59.00,0:11:00.72,Main_Italics,,0000,0000,0000,,I suoi ultimi studenti...
+Dialogue: 0,0:11:01.64,0:11:02.39,Main_Italics,,0000,0000,0000,,Esatto!
+Dialogue: 0,0:11:02.85,0:11:04.30,Main_Italics,,0000,0000,0000,,Kenya Misaki,
+Dialogue: 0,0:11:04.60,0:11:05.97,Main_Italics,,0000,0000,0000,,Ryouta Sekiguchi,
+Dialogue: 0,0:11:06.46,0:11:07.47,Main_Italics,,0000,0000,0000,,Gail Gibson,
+Dialogue: 0,0:11:08.10,0:11:09.10,Main_Italics,,0000,0000,0000,,Alice London
+Dialogue: 0,0:11:09.68,0:11:11.98,Main_Italics,,0000,0000,0000,,e Chloe O'Bell.
+Dialogue: 0,0:11:13.18,0:11:16.90,Main_Italics,,0000,0000,0000,,Tutti quanti sono stati evocati dal mio stesso mondo.
+Dialogue: 0,0:11:17.82,0:11:20.24,Main,,0000,0000,0000,,Maestra, cosa facciamo oggi?
+Dialogue: 0,0:11:20.45,0:11:21.93,Main,,0000,0000,0000,,Vediamo...
+Dialogue: 0,0:11:21.93,0:11:23.87,Main,,0000,0000,0000,,Che vogliamo fare oggi?
+Dialogue: 0,0:11:24.60,0:11:25.37,Main_Italics,,0000,0000,0000,,Tuttavia,
+Dialogue: 0,0:11:26.34,0:11:30.96,Main_Italics,,0000,0000,0000,,quando ha capito che ormai le rimaneva poco da vivere
+Dialogue: 0,0:11:32.46,0:11:34.21,Main_Italics,,0000,0000,0000,,ha deciso di partire per un ultimo viaggio.
+Dialogue: 0,0:11:35.67,0:11:38.88,Main,,0000,0000,0000,,Spero che il nostro villaggio sia di tuo gradimento.
+Dialogue: 0,0:11:42.23,0:11:44.39,Main,,0000,0000,0000,,Sì, moltissimo!
+Dialogue: 0,0:11:45.43,0:11:48.93,Main,,0000,0000,0000,,Puoi stare qui quanto vuoi, Shizu!
+Dialogue: 0,0:11:49.27,0:11:50.60,Main,,0000,0000,0000,,Ti ringrazio.
+Dialogue: 0,0:11:51.17,0:11:52.90,Main,,0000,0000,0000,,Ma devo proprio andare.
+Dialogue: 0,0:11:53.26,0:11:54.29,Main,,0000,0000,0000,,Capisco.
+Dialogue: 0,0:11:55.13,0:11:58.53,Main,,0000,0000,0000,,E poi, se resto qua potrei causarvi problemi.
+Dialogue: 0,0:12:02.08,0:12:04.57,Main,,0000,0000,0000,,L'obiettivo del mio viaggio...
+Dialogue: 0,0:12:04.57,0:12:06.07,Main,,0000,0000,0000,,Obiettivo?
+Dialogue: 0,0:12:07.46,0:12:10.87,Main,,0000,0000,0000,,Sto cercando l'uomo che mi ha evocata.
+Dialogue: 0,0:12:12.15,0:12:14.05,Main,,0000,0000,0000,,E una volta trovato, che farai?
+Dialogue: 0,0:12:16.73,0:12:20.83,Main_Italics,,0000,0000,0000,,L'ha fatto per incontrare di nuovo\Nil Re demone Leon Cromwell...
+Dialogue: 0,0:12:21.80,0:12:22.63,Main_Italics,,0000,0000,0000,,Tuttavia...
+Dialogue: 0,0:12:23.07,0:12:25.08,Main_Italics,,0000,0000,0000,,non ci è mai riuscita.
+Dialogue: 0,0:12:30.45,0:12:32.84,Main,,0000,0000,0000,,Prendete questo! {\i1}Icicle shot{\i0}!
+Dialogue: 0,0:12:36.73,0:12:39.40,Main_Italics,,0000,0000,0000,,Non è più riuscita a controllare Ifrit
+Dialogue: 0,0:12:39.40,0:12:40.77,Main_Italics,,0000,0000,0000,,e poi...
+Dialogue: 0,0:12:51.50,0:12:53.29,Main,,0000,0000,0000,,Ascolta, signor Slime...
+Dialogue: 0,0:12:54.07,0:12:55.80,Main,,0000,0000,0000,,qual è il tuo nome?
+Dialogue: 0,0:12:56.64,0:12:58.28,Main,,0000,0000,0000,,Mi chiamo Limur...
+Dialogue: 0,0:12:59.13,0:13:01.59,Main,,0000,0000,0000,,Il tuo {\i1}vero{\i0} nome...
+Dialogue: 0,0:13:03.69,0:13:05.04,Main,,0000,0000,0000,,Satoru.
+Dialogue: 0,0:13:05.64,0:13:07.09,Main,,0000,0000,0000,,Mikami Satoru.
+Dialogue: 0,0:13:07.90,0:13:09.43,Main,,0000,0000,0000,,Io sono Shizue.
+Dialogue: 0,0:13:10.53,0:13:11.93,Main,,0000,0000,0000,,Izawa Shizue.
+Dialogue: 0,0:13:16.54,0:13:19.37,Main,,0000,0000,0000,,Shizue, dovresti dormire un po'.
+Dialogue: 0,0:13:20.17,0:13:21.29,Main,,0000,0000,0000,,Satoru...
+Dialogue: 0,0:13:22.25,0:13:23.95,Main,,0000,0000,0000,,Avrei un favore da chiederti.
+Dialogue: 0,0:13:24.57,0:13:25.69,Main,,0000,0000,0000,,Posso?
+Dialogue: 0,0:13:26.34,0:13:28.67,Main,,0000,0000,0000,,Certo. Tutto quello che vuoi.
+Dialogue: 0,0:13:32.28,0:13:33.42,Main,,0000,0000,0000,,Vorrei che...
+Dialogue: 0,0:13:35.03,0:13:35.83,Main,,0000,0000,0000,,mi mangiassi.
+Dialogue: 0,0:13:38.64,0:13:40.44,Main,,0000,0000,0000,,Quando hai divorato
+Dialogue: 0,0:13:41.61,0:13:42.47,Main,,0000,0000,0000,,la maledizione
+Dialogue: 0,0:13:43.16,0:13:44.83,Main,,0000,0000,0000,,che mi era stata lanciata...
+Dialogue: 0,0:13:46.62,0:13:47.83,Main,,0000,0000,0000,,mi sono sentita felice.
+Dialogue: 0,0:13:51.51,0:13:52.87,Main,,0000,0000,0000,,Questo mondo...
+Dialogue: 0,0:13:53.84,0:13:54.73,Main,,0000,0000,0000,,non mi piace affatto.
+Dialogue: 0,0:13:56.29,0:13:58.65,Main,,0000,0000,0000,,Ma... non riesco a provare rancore.
+Dialogue: 0,0:14:00.23,0:14:02.73,Main,,0000,0000,0000,,Così come non riesco ad odiare quell'uomo...
+Dialogue: 0,0:14:03.69,0:14:04.53,Main,,0000,0000,0000,,Quindi...
+Dialogue: 0,0:14:05.17,0:14:06.02,Main,,0000,0000,0000,,Quindi...
+Dialogue: 0,0:14:07.70,0:14:10.79,Main,,0000,0000,0000,,non voglio essere assorbita da questo mondo.
+Dialogue: 0,0:14:12.79,0:14:15.38,Main,,0000,0000,0000,,È il mio ultimo desiderio...
+Dialogue: 0,0:14:18.62,0:14:19.74,Main,,0000,0000,0000,,Ti prego,
+Dialogue: 0,0:14:20.79,0:14:24.38,Main,,0000,0000,0000,,lasciami riposare dentro di te.
+Dialogue: 0,0:14:31.23,0:14:32.14,Main,,0000,0000,0000,,D'accordo.
+Dialogue: 0,0:14:37.76,0:14:39.04,Main,,0000,0000,0000,,Te lo prometto!
+Dialogue: 0,0:14:39.04,0:14:40.29,Main,,0000,0000,0000,,Io, Mikami Satoru...
+Dialogue: 0,0:14:40.29,0:14:43.27,Main,,0000,0000,0000,,no, Limur Tempest,
+Dialogue: 0,0:14:43.27,0:14:47.32,Main,,0000,0000,0000,,sbatterò in faccia a questo Leon Cromwell\Ni tuoi sentimenti, dal primo all'ultimo!
+Dialogue: 0,0:14:48.27,0:14:49.56,Main,,0000,0000,0000,,Gra...zie...
+Dialogue: 0,0:15:00.53,0:15:01.70,Main,,0000,0000,0000,,Shizu...
+Dialogue: 0,0:15:02.97,0:15:06.11,Main,,0000,0000,0000,,Persona del mio destino... riposa in pace...
+Dialogue: 0,0:15:06.50,0:15:08.09,Main,,0000,0000,0000,,dentro di me.
+Dialogue: 0,0:15:08.09,0:15:11.23,Main,,0000,0000,0000,,Utilizzare l'abilità unica Predatore?
+Dialogue: 0,0:15:08.13,0:15:12.30,sign_17319_347_Utilizzare,Cartello,0000,0000,0000,,{\fad(425,0)}Utilizzare
+Dialogue: 0,0:15:08.13,0:15:12.30,sign_17330_348_l_abilit___unica,Cartello,0000,0000,0000,,{\fad(850,0)}l'abilità unica Predatore?
+Dialogue: 0,0:15:12.97,0:15:13.81,Main,,0000,0000,0000,,{\i1}Yes{\i0}.
+Dialogue: 0,0:15:14.99,0:15:19.24,Main,,0000,0000,0000,,Possa tu fare dei bei sogni per l'eternità,\Nsenza svegliarti mai...
+Dialogue: 0,0:15:31.07,0:15:34.69,Main,,0000,0000,0000,,Vuoi davvero intralciare i miei piani,
+Dialogue: 0,0:15:35.22,0:15:39.83,Main,,0000,0000,0000,,capo della grande foresta di Jura, Limur Tempest?
+Dialogue: 0,0:15:44.72,0:15:46.08,Main,,0000,0000,0000,,Orchi...
+Dialogue: 0,0:15:46.68,0:15:52.10,Main,,0000,0000,0000,,Volevo usare quei maiali affamati \Nper ingrossare le mie fila...
+Dialogue: 0,0:16:13.65,0:16:16.07,Main,,0000,0000,0000,,Sei un vero avversario, lo riconosco.
+Dialogue: 0,0:16:16.73,0:16:19.37,Main,,0000,0000,0000,,Farò davvero sul serio.
+Dialogue: 0,0:16:20.79,0:16:22.08,Main,,0000,0000,0000,,Ma non farmi ridere!
+Dialogue: 0,0:16:22.08,0:16:24.87,Main,,0000,0000,0000,,Quindi finora non hai fatto sul serio?
+Dialogue: 0,0:16:25.33,0:16:28.13,Main,,0000,0000,0000,,Ormai non puoi fare nulla!
+Dialogue: 0,0:16:29.66,0:16:32.33,Main,,0000,0000,0000,,Fatti mangiare!
+Dialogue: 0,0:16:33.27,0:16:37.20,Main,,0000,0000,0000,,Prima che tu possa mangiarmi,\Nsarò io a mangiare te.
+Dialogue: 0,0:16:38.93,0:16:40.11,Main,,0000,0000,0000,,Io...
+Dialogue: 0,0:16:40.11,0:16:41.30,Main,,0000,0000,0000,,sono uno slime.
+Dialogue: 0,0:16:46.15,0:16:47.65,Main,,0000,0000,0000,,M-Maledetto!
+Dialogue: 0,0:16:48.19,0:16:51.54,Main,,0000,0000,0000,,Non sei l'unico in grado di divorare tutto!
+Dialogue: 0,0:16:53.30,0:16:55.66,Main,,0000,0000,0000,,Riuscirai a mangiarmi prima tu...
+Dialogue: 0,0:16:59.26,0:17:01.65,Main,,0000,0000,0000,,o sarò io a farlo?
+Dialogue: 0,0:17:01.97,0:17:04.36,Main,,0000,0000,0000,,Vince chi divora l'altro per primo!
+Dialogue: 0,0:17:24.30,0:17:25.86,Main,,0000,0000,0000,,Non avrei mai pensato
+Dialogue: 0,0:17:25.86,0:17:29.41,Main,,0000,0000,0000,,che saresti davvero riuscito ad intralciarmi.
+Dialogue: 0,0:17:34.39,0:17:35.53,Main,,0000,0000,0000,,Più tardi,
+Dialogue: 0,0:17:35.84,0:17:39.54,Main,,0000,0000,0000,,ho persino mandato da lui il Charybdis rinato,
+Dialogue: 0,0:17:40.81,0:17:44.23,Main,,0000,0000,0000,,ma il Re demone Milim l'ha aiutato.
+Dialogue: 0,0:17:48.65,0:17:51.27,Main,,0000,0000,0000,,Ormai ho già visto quella tecnica!
+Dialogue: 0,0:17:51.27,0:17:53.92,Main,,0000,0000,0000,,Ora te ne mostro una io!
+Dialogue: 0,0:17:59.20,0:18:00.47,Main,,0000,0000,0000,,Questa...
+Dialogue: 0,0:18:01.17,0:18:04.43,Main,,0000,0000,0000,,è la mossa in cui mi trattengo!
+Dialogue: 0,0:18:05.68,0:18:08.88,Main,,0000,0000,0000,,{\i1}Drago buster{\i0}!
+Dialogue: 0,0:18:19.15,0:18:21.16,Main,,0000,0000,0000,,Oh beh, non c'è problema.
+Dialogue: 0,0:18:21.62,0:18:25.51,Main,,0000,0000,0000,,Verrà il giorno in cui sarò io a usare Milim.
+Dialogue: 0,0:18:26.47,0:18:27.93,Main,,0000,0000,0000,,Spazzerò via quello slime...
+Dialogue: 0,0:18:28.29,0:18:31.92,Main,,0000,0000,0000,,mi pare si chiami Limur, insieme al regno chiamato Tempest
+Dialogue: 0,0:18:32.54,0:18:35.92,Main,,0000,0000,0000,,e a tutti i suoi cari compagni.
+Dialogue: 0,0:18:37.51,0:18:41.53,Main,,0000,0000,0000,,Questo perché ormai mi sta davvero facendo innervosire.
+Dialogue: 0,0:18:42.95,0:18:43.94,Main,,0000,0000,0000,,Visto che...
+Dialogue: 0,0:18:44.60,0:18:47.94,Main,,0000,0000,0000,,ha scelto di intralciare il sottoscritto, il Re demone Kleiman,
+Dialogue: 0,0:18:47.94,0:18:50.83,Main,,0000,0000,0000,,immagino sia pronto alle conseguenze.
+Dialogue: 0,0:18:57.84,0:18:59.48,Main_Italics,,0000,0000,0000,,Il rimpianto di Shizu
+Dialogue: 0,0:18:59.86,0:19:04.20,Main_Italics,,0000,0000,0000,,riguardava i cinque bambini evocati qui.
+Dialogue: 0,0:19:05.24,0:19:09.30,Main,,0000,0000,0000,,Nel caso delle Evocazioni, c'è la possibilità \Nche ad essere richiamato in questo mondo sia un bambino.
+Dialogue: 0,0:19:09.96,0:19:12.13,Main,,0000,0000,0000,,Se il corpo di un bambino che sta ancora crescendo
+Dialogue: 0,0:19:12.54,0:19:15.77,Main,,0000,0000,0000,,viene investito da una forza\Npiù grande di quanto possa contenere,
+Dialogue: 0,0:19:16.54,0:19:17.63,Main,,0000,0000,0000,,prima o poi
+Dialogue: 0,0:19:17.92,0:19:19.95,Main,,0000,0000,0000,,verrà distrutto
+Dialogue: 0,0:19:19.95,0:19:21.84,Main,,0000,0000,0000,,dall'energia che non ha posto dove stare.
+Dialogue: 0,0:19:22.43,0:19:25.12,Main,,0000,0000,0000,,Non conosciamo alcun metodo\Nper evitare la loro morte.
+Dialogue: 0,0:19:26.10,0:19:28.37,Main,,0000,0000,0000,,I bambini che vengono evocati \Nprima dei dieci anni
+Dialogue: 0,0:19:28.37,0:19:31.90,Main,,0000,0000,0000,,finiscono quasi tutti per morire entro cinque anni.
+Dialogue: 0,0:19:33.12,0:19:34.65,Main,,0000,0000,0000,,Ti prego!
+Dialogue: 0,0:19:34.65,0:19:38.11,Main,,0000,0000,0000,,Se ti è possibile, salva quei bambini!
+Dialogue: 0,0:19:39.69,0:19:41.93,Main_Italics,,0000,0000,0000,,Farò tutto ciò che posso.
+Dialogue: 0,0:19:42.87,0:19:45.62,Main_Italics,,0000,0000,0000,,Così è sempre stato, e sempre sarà.
+Dialogue: 0,0:19:47.07,0:19:48.69,Main_Italics,,0000,0000,0000,,Allora ho pensato
+Dialogue: 0,0:19:49.21,0:19:53.07,Main_Italics,,0000,0000,0000,,che effettivamente Shizu era stata evocata \Nquando era ancora una bambina,
+Dialogue: 0,0:19:53.07,0:19:54.51,Main_Italics,,0000,0000,0000,,ma era sopravvissuta.
+Dialogue: 0,0:19:54.51,0:19:57.55,Main_Italics,,0000,0000,0000,,Quindi mi sono chiesto se non fosse per la presenza di Ifrit
+Dialogue: 0,0:19:57.55,0:20:00.76,Main_Italics,,0000,0000,0000,,che il suo corpo era riuscito a controllare l'energia.
+Dialogue: 0,0:20:02.04,0:20:05.68,Main_Italics,,0000,0000,0000,,Perciò ho pensato di far possedere\Ni bambini da spiriti superiori,
+Dialogue: 0,0:20:05.68,0:20:07.81,Main_Italics,,0000,0000,0000,,motivo per cui ci siamo diretti alla Tana degli spiriti.
+Dialogue: 0,0:20:08.58,0:20:10.89,Main_Italics,,0000,0000,0000,,Volevamo catturare degli spiriti superiori!
+Dialogue: 0,0:20:11.39,0:20:13.47,Main_Italics,,0000,0000,0000,,Il quel luogo abbiamo incontrato
+Dialogue: 0,0:20:13.47,0:20:16.89,Main_Italics,,0000,0000,0000,,la regina degli spiriti, Ramiris, che ha deciso di aiutarci.
+Dialogue: 0,0:20:18.02,0:20:18.94,Main,,0000,0000,0000,,Bene!
+Dialogue: 0,0:20:19.58,0:20:23.91,Main,,0000,0000,0000,,Kenya, Ryouta, Gail, Alice, Chloe...
+Dialogue: 0,0:20:24.42,0:20:25.34,Main,,0000,0000,0000,,Facciamolo!
+Dialogue: 0,0:20:25.34,0:20:26.23,Main,,0000,0000,0000,,Sì!
+Dialogue: 0,0:20:27.41,0:20:28.55,Main_Italics,,0000,0000,0000,,Shizu,
+Dialogue: 0,0:20:28.91,0:20:30.58,Main_Italics,,0000,0000,0000,,ovunque tu sia, ci stai guardando?
+Dialogue: 0,0:20:30.93,0:20:32.43,Main_Italics,,0000,0000,0000,,Farò in modo che...
+Dialogue: 0,0:20:32.88,0:20:34.65,Main_Italics,,0000,0000,0000,,il tuo desiderio diventi realtà.
+Dialogue: 0,0:20:40.00,0:20:41.59,Main_Italics,,0000,0000,0000,,E così
+Dialogue: 0,0:20:42.28,0:20:45.09,Main_Italics,,0000,0000,0000,,i bambini sono stati posseduti dagli spiriti.
+Dialogue: 0,0:20:45.09,0:20:48.18,Main_Italics,,0000,0000,0000,,Ora l'energia dei loro corpi è stabile!
+Dialogue: 0,0:20:48.82,0:20:49.88,Main_Italics,,0000,0000,0000,,Beh,
+Dialogue: 0,0:20:49.88,0:20:54.23,Main_Italics,,0000,0000,0000,,quella che ha posseduto Chloe\Nnon ho ben capito cosa fosse...
+Dialogue: 0,0:20:54.64,0:20:57.31,Main_Italics,,0000,0000,0000,,ma ha funzionato, quindi nessun problema!
+Dialogue: 0,0:20:57.31,0:20:59.43,Main_Italics,,0000,0000,0000,,Sì, tutto bene ciò che finisce bene!
+Dialogue: 0,0:21:10.58,0:21:12.29,Main_Italics,,0000,0000,0000,,Ce l'ho fatta, Shizu.
+Dialogue: 0,0:21:12.79,0:21:14.62,Main_Italics,,0000,0000,0000,,Sono salvi, ora.
+Dialogue: 0,0:21:15.97,0:21:17.29,Main_Italics,,0000,0000,0000,,Ed è così
+Dialogue: 0,0:21:17.29,0:21:19.61,Main_Italics,,0000,0000,0000,,che il rimpianto di Shizu è svanito.
+Dialogue: 0,0:21:20.12,0:21:22.01,Main_Italics,,0000,0000,0000,,Meno male, meno male!
+Dialogue: 0,0:21:24.27,0:21:27.06,Main_Italics,,0000,0000,0000,,O almeno, questo era quello che pensavo.
+Dialogue: 0,0:21:27.51,0:21:30.56,Main_Italics,,0000,0000,0000,,Non avevo minimamente idea dell'enorme pericolo
+Dialogue: 0,0:21:30.56,0:21:32.67,Main_Italics,,0000,0000,0000,,che avrebbero minacciato Tempest,
+Dialogue: 0,0:21:32.67,0:21:35.20,Main_Italics,,0000,0000,0000,,i miei compagni
+Dialogue: 0,0:21:35.20,0:21:37.73,Main_Italics,,0000,0000,0000,,e anche me stesso.
+Dialogue: 0,0:21:38.29,0:21:40.13,Main_Italics,,0000,0000,0000,,Per di più, la causa di tutto
+Dialogue: 0,0:21:40.13,0:21:42.47,Main_Italics,,0000,0000,0000,,sarà un'ex allieva di Shizu,
+Dialogue: 0,0:21:42.85,0:21:46.74,Main_Italics,,0000,0000,0000,,Hinata Sakaguchi.
+Dialogue: 0,0:21:53.03,0:21:54.96,Main,,0000,0000,0000,,Limur Tempest,
+Dialogue: 0,0:21:55.99,0:21:57.61,Main,,0000,0000,0000,,per colpa tua la Maestra Shizu...
+Dialogue: 0,0:22:00.54,0:22:01.54,Main,,0000,0000,0000,,Sì,
+Dialogue: 0,0:22:03.38,0:22:04.47,Main,,0000,0000,0000,,sei stato tu
+Dialogue: 0,0:22:06.03,0:22:08.35,Main,,0000,0000,0000,,ad uccidere la Maestra Shizu.
